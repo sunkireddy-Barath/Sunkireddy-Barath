@@ -92,8 +92,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/barath-sunkireddy-71b071340/
+- 📧 Email: sunkireddybarath07@gmail.com 
 - 🌐 Portfolio: Coming Soon  
 
 <p align="center">
