@@ -252,7 +252,7 @@ Passion: Aspiring SDE
 <img src="https://img.shields.io/badge/Scalable-System-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/Enterprise-Grade-1E90FF?style=flat-square"/>
 <br><br>
-🎓 Built complete registration system<br>for CIT Chennai College<br>Scalable enterprise application<br>handling large-scale operations
+🎓 Built complete student registration system<br>for CIT Chennai College<br>Scalable enterprise application<br>handling large-scale operations
 
 </td>
 </tr>
