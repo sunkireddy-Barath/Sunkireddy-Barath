@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=240&section=footer&text=%23include%20%3Csys%2Ftypes.h%3E%20%7C%20%23include%20%3Cunistd.h%3E&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=60&desc=pid_t%20dev%20%3D%20fork()%3B%20exec%28%22Barath%20-%20Systems%20%26%20AI%22%29%3B&descAlignY=40&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,25:243B55,50:00F7FF,75:243B55,100:141E30&height=250&section=footer&text=%23include%20%3Csys%2Fmman.h%3E%20%7C%20%23include%20%3Cpthread.h%3E&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=void*%20future%20%3D%20mmap%28NULL%2C%20SUCCESS%2C%20PROT_EXEC%29%3B&descAlignY=40&descSize=18"/>
 </p>
 
 ---
