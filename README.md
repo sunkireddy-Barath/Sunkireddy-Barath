@@ -15,6 +15,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=240&section=footer&text=%23include%20%3Csys%2Ftypes.h%3E%20%7C%20%23include%20%3Cunistd.h%3E&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=60&desc=pid_t%20dev%20%3D%20fork()%3B%20exec%28%22Barath%20-%20Systems%20%26%20AI%22%29%3B&descAlignY=40&descSize=18"/>
+</p>
 
 ---
 
@@ -212,11 +215,8 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=20" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=20" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=20" />
 </p>
-
-
 
 ---
 
