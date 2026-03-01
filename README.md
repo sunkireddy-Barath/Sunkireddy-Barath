@@ -215,36 +215,42 @@ passion: Building Impactful Technology
 
 ### 💻 KaizenSpark
 <img src="https://img.shields.io/badge/Full_Stack-Developer-00F7FF?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Duration-1_Month-0d1117?style=flat-square"/>
 <br><br>
-<img src="https://img.shields.io/badge/Frontend-UI-61DAFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-APIs-68A063?style=flat-square"/>
-<img src="https://img.shields.io/badge/Database-Integration-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-68A063?style=flat-square&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb"/>
 <br><br>
-<sub>Built company's official website</sub>
+<sub>🌐 Built company's official website<br>from scratch with complete<br>frontend UI, backend APIs &<br>database integration</sub>
 
 </td>
 <td align="center" width="33%">
 
 ### 📊 NullClass Edutech
 <img src="https://img.shields.io/badge/Data_Science-Intern-FF6EC7?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Duration-3_Months-0d1117?style=flat-square"/>
 <br><br>
-<img src="https://img.shields.io/badge/Data-Analysis-013243?style=flat-square"/>
-<img src="https://img.shields.io/badge/ML-Workflows-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model-Development-150458?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-Model-FF6F00?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square&logo=opencv"/>
+<img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python"/>
 <br><br>
-<sub>ML & data analysis workflows</sub>
+<sub>🎭 Built Emotion Detection AI model<br>1 month training + 2 months<br>development & optimization<br>Real-time facial emotion recognition</sub>
 
 </td>
 <td align="center" width="33%">
 
 ### 🏗️ BSAP
 <img src="https://img.shields.io/badge/SDE-Intern-6A5ACD?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Role-Software_Engineer-0d1117?style=flat-square"/>
 <br><br>
-<img src="https://img.shields.io/badge/Backend-Features-FFD700?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scalable-Systems-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Modern-Tech-1E90FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full_Stack-App-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scalable-System-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Enterprise-Grade-1E90FF?style=flat-square"/>
 <br><br>
-<sub>Scalable system components</sub>
+<sub>🎓 Built complete registration system<br>for CIT Chennai College<br>Scalable enterprise application<br>handling large-scale operations</sub>
 
 </td>
 </tr>
