@@ -70,15 +70,6 @@
 #include <stdlib.h>
 #include <signal.h>
 
-#define CYAN    "\033[96m"
-#define MAGENTA "\033[95m"
-#define YELLOW  "\033[93m"
-#define GREEN   "\033[92m"
-#define RED     "\033[91m"
-#define BLUE    "\033[94m"
-#define BOLD    "\033[1m"
-#define RESET   "\033[0m"
-
 typedef struct Developer {
     const char* name;
     const char* role;
