@@ -56,20 +56,22 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql" />
 </p>
-
 ## 🎨 Frontend & Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ## ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,mysql,firebase,supabase&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,mysql,firebase,supabase" />
 </p>
 
 ## 🤖 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas&perline=5" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 ---
 
