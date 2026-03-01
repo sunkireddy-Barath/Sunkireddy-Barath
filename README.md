@@ -16,9 +16,56 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=260&section=footer&animation=twinkling&fontSize=18&fontColor=ffffff&text=%23include%20%3Cunistd.h%3E%20%7C%20%23include%20%3Cstring.h%3E&desc=int%20main()%20%7B%20write(1,%20%22Barath%20-%20AI%20%26%20SDE%22,%2019);%20%7D&descAlignY=60"/>
+
+<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6A5ACD"/>
+      <stop offset="25%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#FF6EC7"/>
+      <stop offset="75%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#6A5ACD"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Wave -->
+  <path d="M0,160 C300,80 900,240 1200,160 L1200,0 L0,0 Z" fill="url(#grad)" />
+
+  <!-- Code Background -->
+  <rect x="80" y="110" width="1040" height="190" rx="14" fill="#0d1117" opacity="0.95"/>
+
+  <!-- Code -->
+  <text x="120" y="150" font-family="monospace" font-size="16" fill="#79c0ff">
+    #include &lt;unistd.h&gt;
+  </text>
+  <text x="120" y="175" font-family="monospace" font-size="16" fill="#79c0ff">
+    #include &lt;string.h&gt;
+  </text>
+
+  <text x="120" y="205" font-family="monospace" font-size="16" fill="#ff7b72">
+    int main() {
+  </text>
+
+  <text x="140" y="235" font-family="monospace" font-size="15" fill="#ffffff">
+    const char name[] = "Name    : Barath\n";
+  </text>
+
+  <text x="140" y="260" font-family="monospace" font-size="15" fill="#ffffff">
+    const char passion[] = "Passion : Coding, Full Stack Development, AI/ML\n";
+  </text>
+
+  <text x="140" y="285" font-family="monospace" font-size="15" fill="#ffffff">
+    const char goal[] = "Goal    : Software Engineer &amp; Impactful Tech\n";
+  </text>
+
+  <text x="140" y="310" font-family="monospace" font-size="15" fill="#a5d6ff">
+    write(1, name, strlen(name));
+  </text>
+
+</svg>
+
 </p>
----
 
 # 👨‍💻 About Me
 
