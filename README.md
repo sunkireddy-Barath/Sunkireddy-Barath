@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=220&section=footer&text=%23include%20%3Cunistd.h%3E%20%7C%20%23include%20%3Csys%2Ftypes.h%3E&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=60&desc=pid_t%20p%20%3D%20fork()%3B%20exec()%3B%20malloc()%3B%20%2F%2F%20Barath%20OS%20Mindset&descAlignY=40&descSize=18"/>
+<imgsrc="https://capsulerender.vercel.app/apitype=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=220&section=footer&text=fork()%20%E2%80%A2%20exec()%20%E2%80%A2%20malloc()%20%E2%80%A2%20syscalls&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Pointers%20%7C%20Processes%20%7C%20Memory%20Management%20%7C%20OS%20Mindset&descAlignY=45&descSize=16"/>
 </p>
 
 ---
