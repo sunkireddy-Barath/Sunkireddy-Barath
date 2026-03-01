@@ -136,61 +136,205 @@ int main(void) {
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Let's+Build+Something+Amazing+Together+🚀" />
 </h2>
 
-# 👨‍💻 About Me
-
-- 🎓 Computer Science Engineering Student  
-- 💻 Full Stack Developer with strong backend focus  
-- 🤖 AI & Machine Learning Engineer  
-- 🧠 Solved **800+ LeetCode problems**  
-- 🏆 International & National Hackathon Winner  
-- 🚀 Passionate about coding & intelligent software  
-
-I enjoy building **real-world impact products** combining **AI, backend engineering, distributed systems, and blockchain**.
-
----
-
-# 💼 Internships Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Professional-Experience-6A5ACD?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=00F7FF&center=true&vCenter=true&repeat=false&width=500&lines=👨‍💻+ABOUT+ME+👨‍💻"/>
 </p>
 
-- 💻 **Full Stack Developer Intern — KaizenSpark**  
-  Built the company’s official website with frontend UI, backend APIs, and database integration.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
-- 📊 **Data Science Intern — NullClass Edutech Pvt Ltd**  
-  Worked on data analysis, machine learning workflows, and model development.
+<br>
 
-- 🏗 **Software Development Engineer Intern — BSAP**  
-  Developed backend features and scalable system components using modern technologies.
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
----
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-# ⚡ Tech Stack
+### 🚀 Who Am I?
 
-## 💻 Languages
+```yaml
+name: Barath Sunkireddy
+role: Software Development Engineer
+education: Computer Science Engineering
+location: India 🇮🇳
+passion: Building Impactful Technology
+```
+
+</td>
+<td width="50%">
+
+### ⚡ Quick Facts
+
+<img src="https://img.shields.io/badge/🎓-CS_Engineering_Student-0d1117?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/💻-Full_Stack_Developer-00F7FF?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/🤖-AI_&_ML_Engineer-FF6EC7?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/🧠-800+_LeetCode_Solved-FFA116?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/🏆-3x_Hackathon_Winner-FFD700?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/🚀-Passionate_Coder-6A5ACD?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql" />
+  <img src="https://img.shields.io/badge/Focus-AI_|_Backend_|_Distributed_Systems_|_Blockchain-00F7FF?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
-## 🎨 Frontend & Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,figma" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:00F7FF,100:6A5ACD&height=3"/>
 </p>
 
-## ⚙️ Backend & Databases
+<br>
+
+<!-- ================= INTERNSHIPS SECTION ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,mysql,firebase,supabase" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=6A5ACD&center=true&vCenter=true&repeat=false&width=600&lines=💼+PROFESSIONAL+EXPERIENCE+💼"/>
 </p>
 
-## 🤖 AI / ML
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 KaizenSpark
+<img src="https://img.shields.io/badge/Full_Stack-Developer-00F7FF?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Frontend-UI-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-APIs-68A063?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database-Integration-336791?style=flat-square"/>
+<br><br>
+<sub>Built company's official website</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 📊 NullClass Edutech
+<img src="https://img.shields.io/badge/Data_Science-Intern-FF6EC7?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Data-Analysis-013243?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-Workflows-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model-Development-150458?style=flat-square"/>
+<br><br>
+<sub>ML & data analysis workflows</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 🏗️ BSAP
+<img src="https://img.shields.io/badge/SDE-Intern-6A5ACD?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Backend-Features-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scalable-Systems-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Modern-Tech-1E90FF?style=flat-square"/>
+<br><br>
+<sub>Scalable system components</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:6A5ACD,100:00F7FF&height=3"/>
 </p>
+
+<br>
+
+<!-- ================= TECH STACK SECTION ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=00C853&center=true&vCenter=true&repeat=false&width=500&lines=⚡+TECH+STACK+⚡"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Languages
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,sql" />
+<br><br>
+<img src="https://img.shields.io/badge/Proficiency-Advanced-00C853?style=flat-square"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🎨 Frontend & Design
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+<br>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
+<br><br>
+<img src="https://img.shields.io/badge/UI/UX-Expert-FF6EC7?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ Backend & Databases
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" />
+<br><br>
+<img src="https://img.shields.io/badge/Backend-Specialist-6A5ACD?style=flat-square"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 AI / ML
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/ML-Engineer-00F7FF?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,50:00F7FF,100:6A5ACD&height=3"/>
+</p>
+
+<br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
