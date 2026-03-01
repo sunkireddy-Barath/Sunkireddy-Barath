@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Barath;Software+Development+Engineer;Full+Stack+Developer;AI+%26+ML+Engineer;800%2B+LeetCode+Problems;Hackathon+Winner+🏆" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+Myself+Barath;Software+Development+Engineer;Full+Stack+Developer;AI+%26+ML+Engineer;800%2B+LeetCode+Problems+Solved;3X+Hackathon+Winner+🏆" />
 </p>
 
 <h1 align="center">🚀 Barath Sunkireddy </h1>
@@ -27,7 +27,7 @@
 - 🤖 AI & Machine Learning Engineer  
 - 🧠 Solved **800+ LeetCode problems**  
 - 🏆 International & National Hackathon Winner  
-- 🚀 Passionate about scalable systems & intelligent software  
+- 🚀 Passionate about coding & intelligent software  
 
 I enjoy building **real-world impact products** combining **AI, backend engineering, distributed systems, and blockchain**.
 
