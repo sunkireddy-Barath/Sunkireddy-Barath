@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/badge/Backend-Strong-purple?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&color=00F7FF&center=true&width=500&lines=Let's+Build+Something+Amazing+Together"/>
-</p>
+
 
 ---
 
