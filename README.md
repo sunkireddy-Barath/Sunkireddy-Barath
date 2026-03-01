@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=220&section=footer&text=⭐%20Barath%20•%20SDE%20•%20AI%20Engineer%20⭐&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&color=00F7FF&center=true&width=500&lines=Let's+Build+Something+Amazing+Together"/>
 </p>
 
 ---
