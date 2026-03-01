@@ -19,6 +19,8 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/⚙️%20Systems%20Programming-OS%20Level%20C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Low%20Level-Linux%20Syscalls-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Memory-Pointers%20%26%20Processes-FF6EC7?style=for-the-badge"/>
 
 </div>
 
@@ -31,33 +33,32 @@
 <td>
 
 <div style="
-border-radius:16px;
+border-radius:18px;
 padding:2px;
 background: linear-gradient(135deg,#6A5ACD,#00F7FF,#FF6EC7,#00F7FF,#6A5ACD);
-box-shadow: 0px 0px 30px rgba(0,247,255,0.25);
 ">
 
 <div style="
 background:#0d1117;
-border-radius:14px;
-padding:20px;
+border-radius:16px;
+padding:22px;
 font-family: monospace;
 ">
 
 <!-- Terminal Header -->
-<div style="display:flex; gap:8px; margin-bottom:12px;">
+<div style="display:flex; align-items:center; gap:8px; margin-bottom:14px;">
 <div style="width:12px;height:12px;border-radius:50%;background:#ff5f56;"></div>
 <div style="width:12px;height:12px;border-radius:50%;background:#ffbd2e;"></div>
 <div style="width:12px;height:12px;border-radius:50%;background:#27c93f;"></div>
-<span style="margin-left:10px;color:#8b949e;font-size:13px;">
-barath@system:~/os_programming
+<span style="margin-left:10px;color:#58a6ff;font-size:13px;">
+barath@kernel:~/os_programming
 </span>
 </div>
 
-<pre style="margin:0">
+<pre style="margin:0; font-size:15px; line-height:1.5">
 
-<span style="color:#79c0ff">#include</span> &lt;unistd.h&gt;
-<span style="color:#79c0ff">#include</span> &lt;string.h&gt;
+<span style="color:#79c0ff">#include</span> <span style="color:#a5d6ff">&lt;unistd.h&gt;</span>
+<span style="color:#79c0ff">#include</span> <span style="color:#a5d6ff">&lt;string.h&gt;</span>
 
 <span style="color:#ff7b72">int</span> <span style="color:#d2a8ff">main</span>() {
 
