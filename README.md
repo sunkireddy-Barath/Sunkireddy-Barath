@@ -16,21 +16,28 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=260&section=header&animation=twinkling 
-cpp
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=360&section=header&animation=twinkling"/>
+</p>
+
+<p align="center">
+```cpp
 #include <unistd.h>
 #include <string.h>
+
 int main() {
+
     const char name[] =
         "Name    : Barath\n";
+
     const char passion[] =
         "Passion : Coding, Full Stack Development, AI/ML\n";
+
     const char goal[] =
         "Goal    : Software Engineer & Impactful Tech\n";
-    write(1, name, strlen(name));
-}" 
-/>
 
+    write(1, name, strlen(name));
+}
+```
 </p>
 
 
