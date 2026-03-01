@@ -59,7 +59,8 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 
 ## 🎨 Frontend & Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ## ⚙️ Backend & Databases
@@ -75,7 +76,7 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
----
+
 
 # 🚀 Featured Projects
 
