@@ -19,7 +19,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+SYSTEMS+PROGRAMMING+IDENTITY+%E2%9A%A1;%F0%9F%94%A5+Low+Level+%7C+OS+Kernel+%7C+Memory+Wizardry+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Let's+Build+Something+Amazing+Together+🚀" />
 </h2>
 
 <p align="center">
