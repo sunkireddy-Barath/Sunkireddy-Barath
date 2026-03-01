@@ -41,35 +41,41 @@ background: linear-gradient(135deg,#6A5ACD,#00F7FF,#FF6EC7,#00F7FF,#6A5ACD);
 <div style="
 background:#0d1117;
 border-radius:16px;
-padding:22px;
-font-family: monospace;
+padding:24px;
 ">
 
-<!-- Terminal Header -->
-<div style="font-family:monospace; font-size:15px; line-height:1.5">
+<pre style="margin:0; font-family:monospace; font-size:15px; line-height:1.6">
 
 <span style="color:#58a6ff">barath@kernel:~/os_programming</span>
 
-<br>
+<span style="color:#00e5ff">#include</span> <span style="color:#7ee787">&lt;unistd.h&gt;</span>
+<span style="color:#00e5ff">#include</span> <span style="color:#7ee787">&lt;string.h&gt;</span>
 
-<span style="color:#79c0ff">#include</span> <span style="color:#a5d6ff">&lt;unistd.h&gt;</span><br>
-<span style="color:#79c0ff">#include</span> <span style="color:#a5d6ff">&lt;string.h&gt;</span><br><br>
+<span style="color:#ff7b72">int</span> <span style="color:#d2a8ff">main</span>() {
 
-<span style="color:#ff7b72">int</span> <span style="color:#d2a8ff">main</span>() {<br><br>
+    <span style="color:#ff7b72">const char</span> name[] =
+        <span style="color:#a5d6ff">"Name    : Barath\n"</span>;
 
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72">const char</span> name[] =<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a5d6ff">"Name    : Barath\n"</span>;<br><br>
+    <span style="color:#ff7b72">const char</span> passion[] =
+        <span style="color:#a5d6ff">"Passion : Coding, Full Stack Development, AI/ML\n"</span>;
 
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72">const char</span> passion[] =<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a5d6ff">"Passion : Coding, Full Stack Development, AI/ML\n"</span>;<br><br>
+    <span style="color:#ff7b72">const char</span> goal[] =
+        <span style="color:#a5d6ff">"Goal    : Software Engineer &amp; Impactful Tech\n"</span>;
 
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72">const char</span> goal[] =<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a5d6ff">"Goal    : Software Engineer &amp; Impactful Tech\n"</span>;<br><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#79c0ff">write</span>(1, name, strlen(name));<br>
+    <span style="color:#00e5ff">write</span>(1, name, strlen(name));
 }
 
+</pre>
+
 </div>
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 # 👨‍💻 About Me
 
