@@ -136,6 +136,8 @@ int main(void) {
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Let's+Build+Something+Amazing+Together+🚀" />
 </h2>
 
+<!-- ================= ABOUT ME SECTION ================= -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
 <p align="center">
@@ -185,7 +187,7 @@ passion: Building Impactful Technology
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI_|_Backend_|_Distributed_Systems_|_Blockchain-00F7FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Focus-AI_|_Backend_|_Distributed_Systems_|_Blockchain-FF6EC7?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 <p align="center">
@@ -342,6 +344,8 @@ passion: Building Impactful Technology
 
 <br>
 
+
+<!-- ================= TOP PROJECTS SECTION ================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
@@ -521,7 +525,7 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 
 | 🎯 Achievement | 🏅 Event | 💰 Prize |
 |:---:|:---:|:---:|
-| 🥇 **Winner** | Cardano Asia  IBW  Hackathon 2025 | **$2000 USD** |
+| 🥇 **Winner** | Cardano Asia x IBW Hackathon 2025 | **$2000 USD** |
 | 🥇 **Winner** | QIE International Blockchain 2026 | **$2500 USD** |
 | 🥈 **2nd Runner-Up** | BeachHack National 2026 | **₹20,000** |
 
@@ -599,4 +603,5 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=200&section=footer&text=Code%20•%20Build%20•%20Innovate&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 </p>
+
 
