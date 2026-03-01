@@ -16,84 +16,125 @@
 
 <!-- ================= SYSTEMS PROGRAMMING IDENTITY ================= -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Systems+Programming+Identity+⚡;Low+Level+%7C+OS+%7C+Memory+Management" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+SYSTEMS+PROGRAMMING+IDENTITY+%E2%9A%A1;%F0%9F%94%A5+Low+Level+%7C+OS+Kernel+%7C+Memory+Wizardry+%F0%9F%94%A5" />
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚙️_Systems_Programming-OS_Level_C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🐧_Low_Level-Linux_Syscalls-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧠_Memory-Pointers_&_Processes-FF6EC7?style=for-the-badge"/>
+  <a href="#"><img src="https://img.shields.io/badge/⚙️_SYSTEMS-OS_LEVEL_C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a2e"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/🐧_KERNEL-LINUX_SYSCALLS-00F7FF?style=for-the-badge&labelColor=1a1a2e"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/🧠_MEMORY-POINTERS_&_PROCESSES-FF6EC7?style=for-the-badge&labelColor=1a1a2e"/></a>
 </p>
 
+<br>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true">
-  </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+<br>
+
+<!-- Terminal Window Start -->
+<div align="center">
+<img width="600" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=45&section=header&text=🖥️%20barath@kernel:~%2Fos_programming&fontSize=16&fontColor=00F7FF&fontAlign=50&fontAlignY=55"/>
+</div>
+
+<div align="center">
+<a href="#">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=⚡%20Code%20Execution%20Activity&bg_color=0d1117&color=00F7FF&line=FF6EC7&point=6A5ACD&area=true&area_color=1a1a2e&hide_border=true" width="95%"/>
+</a>
 </div>
 
 <br>
 
 <div align="center">
-<table>
-<tr>
-<td>
 
-```bash
-barath@kernel:~/os_programming$ cat about_me.c
-```
+```cpp
+/*╔═══════════════════════════════════════════════════════════════════════════════════╗
+  ║                                                                                   ║
+  ║   ██████╗  █████╗ ██████╗  █████╗ ████████╗██╗  ██╗    ██████╗ ███████╗██╗   ██╗  ║
+  ║   ██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ██╔══██╗██╔════╝██║   ██║  ║
+  ║   ██████╔╝███████║██████╔╝███████║   ██║   ███████║    ██║  ██║█████╗  ██║   ██║  ║
+  ║   ██╔══██╗██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝  ║
+  ║   ██████╔╝██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║    ██████╔╝███████╗ ╚████╔╝   ║
+  ║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝    ║
+  ║                                                                                   ║
+  ║   🔥 IDENTITY ENGINE v2.0 | Compiled with passion | Running on determination 🔥   ║
+  ║                                                                                   ║
+  ╚═══════════════════════════════════════════════════════════════════════════════════╝*/
 
-</td>
-</tr>
-</table>
-</div>
+#include <unistd.h>      // 🔧 POSIX operating system API
+#include <string.h>      // 📝 String manipulation functions
+#include <stdio.h>       // 🖨️ Standard I/O operations
 
-<div align="center">
-<table>
-<tr>
-<td>
+#define CYAN    "\033[36m"
+#define MAGENTA "\033[35m"
+#define GREEN   "\033[32m"
+#define YELLOW  "\033[33m"
+#define RESET   "\033[0m"
+#define BOLD    "\033[1m"
 
-```c
-/* ═══════════════════════════════════════════════════════════════
- *  🖥️  BARATH'S IDENTITY - Written in Pure C
- *  📍  Running on: Linux Kernel
- *  ⚡  Compiled with: gcc -Wall -O2
- * ═══════════════════════════════════════════════════════════════ */
-
-#include <unistd.h>
-#include <string.h>
+typedef struct {
+    const char *icon;
+    const char *key;
+    const char *value;
+} Profile;
 
 int main(void) {
     
-    const char *profile[] = {
-        "╔══════════════════════════════════════════════════════╗\n",
-        "║  👤 Name    : Barath                                  ║\n",
-        "║  💻 Passion : Coding, Full Stack, AI/ML              ║\n", 
-        "║  🎯 Goal    : Software Engineer & Impactful Tech     ║\n",
-        "║  🔥 Status  : Building Something Amazing...          ║\n",
-        "╚══════════════════════════════════════════════════════╝\n",
-        NULL
+    Profile barath[] = {
+        {"👤", "Name",      "Barath Sunkireddy"},
+        {"💻", "Passion",   "Coding • Full Stack • AI/ML"},
+        {"🎯", "Goal",      "Software Engineer & Impactful Tech"},
+        {"🏆", "Achieve",   "800+ LeetCode • 3x Hackathon Winner"},
+        {"🔥", "Status",    "Building Something Revolutionary..."},
+        {NULL, NULL, NULL}
     };
 
-    for (int i = 0; profile[i] != NULL; i++) {
-        write(STDOUT_FILENO, profile[i], strlen(profile[i]));
+    // ═══════════════════════════════════════════════════════════════
+    printf(BOLD CYAN "\n   ╔════════════════════════════════════════════════════════╗\n" RESET);
+    printf(BOLD CYAN "   ║" MAGENTA "  ⚡ BARATH.EXE - Systems Programming Mode Activated ⚡  " CYAN "║\n" RESET);
+    printf(BOLD CYAN "   ╠════════════════════════════════════════════════════════╣\n" RESET);
+    
+    for (int i = 0; barath[i].icon != NULL; i++) {
+        printf(CYAN "   ║  " RESET);
+        printf("%s " YELLOW "%-10s" RESET " : " GREEN "%s" RESET, 
+               barath[i].icon, barath[i].key, barath[i].value);
+        printf(CYAN "%*s║\n" RESET, (int)(38 - strlen(barath[i].value)), "");
     }
+    
+    printf(BOLD CYAN "   ╚════════════════════════════════════════════════════════╝\n\n" RESET);
+    // ═══════════════════════════════════════════════════════════════
 
-    return 0;  // Success! 🚀
+    return 0;  // ✅ Exit Code: SUCCESS
 }
+
+// 🚀 Compile: gcc -o barath barath.c && ./barath
 ```
 
-</td>
-</tr>
-</table>
 </div>
 
+<br>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/📟_Output-Successfully_Compiled-00C853?style=flat-square"/>
-  <img src="https://img.shields.io/badge/⚙️_Exit_Code-0-00F7FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🔧_Optimization-O2-FF6EC7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📟_COMPILER-GCC_13.2-00C853?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⚡_STATUS-RUNNING-00F7FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎯_EXIT_CODE-0x00-FF6EC7?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🔥_OPTIMIZATION-O3-6A5ACD?style=for-the-badge&labelColor=0d1117"/>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,25&height=80&section=footer&animation=twinkling"/>
+</div>
 
 # 👨‍💻 About Me
 
