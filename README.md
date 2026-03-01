@@ -56,15 +56,15 @@
 <code>identity.c — barath@system</code>
 
 ```cpp
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  ██████╗  █████╗ ██████╗  █████╗ ████████╗██╗  ██╗    ███████╗██╗   ██╗███████╗│
-│  ██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ██╔════╝╚██╗ ██╔╝██╔════╝│
-│  ██████╔╝███████║██████╔╝███████║   ██║   ███████║    ███████╗ ╚████╔╝ ███████╗│
-│  ██╔══██╗██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║    ╚════██║  ╚██╔╝  ╚════██║│
-│  ██████╔╝██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║    ███████║   ██║   ███████║│
-│  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝   ╚═╝   ╚══════╝│
-│                    🔥 IDENTITY ENGINE v3.0 🔥                                 │
-└──────────────────────────────────────────────────────────────────────────────┘
+                    ╔════════════════════════════════════════════════════════════════════════╗
+                    ║  ██████╗  █████╗ ██████╗  █████╗ ████████╗██╗  ██╗    ███████╗██╗   ██╗███████╗  ║
+                    ║  ██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ██╔════╝╚██╗ ██╔╝██╔════╝  ║
+                    ║  ██████╔╝███████║██████╔╝███████║   ██║   ███████║    ███████╗ ╚████╔╝ ███████╗  ║
+                    ║  ██╔══██╗██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║    ╚════██║  ╚██╔╝  ╚════██║  ║
+                    ║  ██████╔╝██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║    ███████║   ██║   ███████║  ║
+                    ║  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝   ╚═╝   ╚══════╝  ║
+                    ║                       🔥 IDENTITY ENGINE v3.0 🔥                                ║
+                    ╚════════════════════════════════════════════════════════════════════════╝
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -96,15 +96,15 @@ int main(void) {
         .hackathon_wins = 3
     };
 
-    printf(BOLD CYAN "╔══════════════════════════════════════════════════════════╗\n" RESET);
-    printf(BOLD CYAN "║" MAGENTA "  ⚡ BARATH.SYS — Systems Programming Mode: ACTIVE ⚡  " CYAN "║\n" RESET);
-    printf(BOLD CYAN "╠══════════════════════════════════════════════════════════╣\n" RESET);
-    printf(CYAN "║ " YELLOW "👤 NAME     " RESET "➜ " GREEN "%s" CYAN "               ║\n" RESET, barath.name);
-    printf(CYAN "║ " YELLOW "💼 ROLE     " RESET "➜ " GREEN "%s" CYAN "    ║\n" RESET, barath.role);
-    printf(CYAN "║ " YELLOW "🧠 LEETCODE " RESET "➜ " GREEN "%d+ Problems Solved" CYAN "               ║\n" RESET, barath.leetcode_solved);
-    printf(CYAN "║ " YELLOW "🏆 WINS     " RESET "➜ " GREEN "%dx Hackathon Champion" CYAN "               ║\n" RESET, barath.hackathon_wins);
-    printf(CYAN "║ " YELLOW "🚀 STATUS   " RESET "➜ " RED "Building Something Revolutionary..." CYAN " ║\n" RESET);
-    printf(BOLD CYAN "╚══════════════════════════════════════════════════════════╝\n" RESET);
+    printf(BOLD CYAN "╔═══════════════════════════════════════════════════════════════════╗\n" RESET);
+    printf(BOLD CYAN "║" MAGENTA "    ⚡ BARATH.SYS — Systems Programming Mode: ACTIVE ⚡    " CYAN "║\n" RESET);
+    printf(BOLD CYAN "╠═══════════════════════════════════════════════════════════════════╣\n" RESET);
+    printf(CYAN "║ " YELLOW "👤 NAME     " RESET "➜ " GREEN "%-50s" CYAN " ║\n" RESET, barath.name);
+    printf(CYAN "║ " YELLOW "💼 ROLE     " RESET "➜ " GREEN "%-50s" CYAN " ║\n" RESET, barath.role);
+    printf(CYAN "║ " YELLOW "🧠 LEETCODE " RESET "➜ " GREEN "%-50s" CYAN " ║\n" RESET, "800+ Problems Solved");
+    printf(CYAN "║ " YELLOW "🏆 WINS     " RESET "➜ " GREEN "%-50s" CYAN " ║\n" RESET, "3x Hackathon Champion");
+    printf(CYAN "║ " YELLOW "🚀 STATUS   " RESET "➜ " RED "%-50s" CYAN " ║\n" RESET, "Building Something Revolutionary...");
+    printf(BOLD CYAN "╚═══════════════════════════════════════════════════════════════════╝\n" RESET);
 
     return EXIT_SUCCESS;
 }
