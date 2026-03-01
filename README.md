@@ -140,7 +140,7 @@ AI-driven SOC system for vulnerability analysis, attack simulation, and business
 </p>
 
 <p align="center">
-AI-driven on-chain credit passport that evaluates wallet activity and provides reusable credit scores via Soulbound NFTs for DeFi systems.
+AI-driven on-chain credit passport that evaluates wallet activity and provides credit scores via Soulbound NFTs for DeFi systems
 </p>
 
 ### ✨ Key Highlights
