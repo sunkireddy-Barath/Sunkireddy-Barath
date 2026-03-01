@@ -16,46 +16,28 @@
 
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=260&section=header&animation=twinkling"/>
+<div align="center" style="margin-top:-140px;">
 
-<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+```cpp
+#include <unistd.h>
+#include <string.h>
 
-  <!-- Background image from capsule-render -->
-  <image href="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=320&section=header"
-         x="0" y="0" width="1200" height="320"/>
+int main() {
 
-  <!-- Code panel -->
-  <rect x="100" y="110" width="1000" height="180" rx="14" fill="#0d1117" opacity="0.92"/>
+    const char name[] =
+        "Name    : Barath\n";
 
-  <!-- Code text -->
-  <text x="130" y="150" font-family="monospace" font-size="16" fill="#79c0ff">
-    #include &lt;unistd.h&gt;
-  </text>
-  <text x="130" y="175" font-family="monospace" font-size="16" fill="#79c0ff">
-    #include &lt;string.h&gt;
-  </text>
+    const char passion[] =
+        "Passion : Coding, Full Stack Development, AI/ML\n";
 
-  <text x="130" y="205" font-family="monospace" font-size="16" fill="#ff7b72">
-    int main() {
-  </text>
+    const char goal[] =
+        "Goal    : Software Engineer & Impactful Tech\n";
 
-  <text x="150" y="235" font-family="monospace" font-size="15" fill="#ffffff">
-    const char name[] = "Name    : Barath\n";
-  </text>
-
-  <text x="150" y="260" font-family="monospace" font-size="15" fill="#ffffff">
-    const char passion[] = "Passion : Coding, Full Stack Development, AI/ML\n";
-  </text>
-
-  <text x="150" y="285" font-family="monospace" font-size="15" fill="#ffffff">
-    const char goal[] = "Goal    : Software Engineer &amp; Impactful Tech\n";
-  </text>
-
-  <text x="150" y="310" font-family="monospace" font-size="15" fill="#a5d6ff">
     write(1, name, strlen(name));
-  </text>
-
-</svg>
-
+}
+</div>
+```
 </p>
 
 # 👨‍💻 About Me
