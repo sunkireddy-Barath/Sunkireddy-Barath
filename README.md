@@ -513,6 +513,7 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 <img src="https://img.shields.io/badge/Total_Wins-3x_Champion-FFD700?style=for-the-badge"/>
 <br><br>
 <img src="https://img.shields.io/badge/Prize_Money-$4500%2B-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Innovation-Leader-00C853?style=for-the-badge"/>
 
 </td>
 </tr>
