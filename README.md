@@ -193,7 +193,18 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 </p>
 
 
-# 🚀 Top Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=00F7FF&center=true&vCenter=true&repeat=false&width=500&lines=🚀+TOP+PROJECTS+🚀"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
+
 <!-- ================= LENDORA ================= -->
 
 <h2 align="center">🤖 Lendora AI — Intelligent Financial Negotiation System 🏆</h2>
@@ -316,15 +327,63 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 ---
 
 
-# 🏆 Achievements
+<!-- ================= ACHIEVEMENTS SECTION ================= -->
 
-- 🧠 **800+ LeetCode Problems Solved**
-- 🥇 Winner — Cardano Asia x IBW Hackathon 2025 (**$2000 USD**)
-- 🥇 Winner — QIE International Blockchain Hackathon 2026 (**$2500 USD**)
-- 🥈 2nd Runner-Up — BeachHack National Hackathon 2026 (**₹20,000**)
-- 💼 Completed Multiple Industry Internships
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=FFD700&center=true&vCenter=true&repeat=false&width=500&lines=🏆+ACHIEVEMENTS+🏆"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 Problem Solving
+<img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Data_Structures-Expert-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-Advanced-00C853?style=for-the-badge"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🏆 Hackathon Victories
+<img src="https://img.shields.io/badge/Total_Wins-3x_Champion-FFD700?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Prize_Money-$4500%2B-00C853?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+
+| 🎯 Achievement | 🏅 Event | 💰 Prize |
+|:---:|:---:|:---:|
+| 🥇 **Winner** | Cardano Asia x IBW Hackathon 2025 | **$2000 USD** |
+| 🥇 **Winner** | QIE International Blockchain 2026 | **$2500 USD** |
+| 🥈 **2nd Runner-Up** | BeachHack National 2026 | **₹20,000** |
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:FFD700,100:6A5ACD&height=3"/>
+</p>
+
+<br>
 
 
 # 📊 GitHub Analytics
@@ -338,20 +397,49 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 
 
 
-# 📫 Connect With Me
+<!-- ================= CONNECT SECTION ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/barath-sunkireddy-71b071340/">
-    <img src="https://img.shields.io/badge/LinkedIn-Barath-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:sunkireddybarath07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=FF6EC7&center=true&vCenter=true&repeat=false&width=600&lines=📫+LET'S+CONNECT+📫"/>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
+<br>
 
----
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/barath-sunkireddy-71b071340/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sunkireddybarath07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sunkireddy-Barath">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="35"/>
+  </a>
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,12,19,20,25&height=30&section=header&reversal=false"/>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sunkireddy-Barath&style=for-the-badge&color=00F7FF&labelColor=0d1117&label=PROFILE+VIEWS"/>
+</p>
+
+<br>
 
 
 <p align="center">
@@ -361,3 +449,4 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=200&section=footer&text=Code%20•%20Build%20•%20Innovate&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 </p>
+
