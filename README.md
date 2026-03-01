@@ -501,9 +501,8 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 <td align="center" width="50%">
 
 ### 🧠 Problem Solving
-<img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<br><br>
 <img src="https://img.shields.io/badge/Data_Structures-Expert-00C853?style=for-the-badge"/>
+<br><br>
 <img src="https://img.shields.io/badge/Algorithms-Advanced-00C853?style=for-the-badge"/>
 
 </td>
@@ -513,7 +512,6 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 <img src="https://img.shields.io/badge/Total_Wins-3x_Champion-FFD700?style=for-the-badge"/>
 <br><br>
 <img src="https://img.shields.io/badge/Prize_Money-$4500%2B-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Innovation-Leader-00C853?style=for-the-badge"/>
 
 </td>
 </tr>
