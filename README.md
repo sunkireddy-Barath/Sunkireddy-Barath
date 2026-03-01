@@ -19,7 +19,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=100000000&pause=100000000&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+SYSTEMS+PROGRAMMING+IDENTITY+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=00F7FF&center=true&vCenter=true&width=1000&lines=SYSTEMS+ PROGRAMMING+IDENTITY" />
 </p>
 
 <div align="center">
@@ -28,11 +28,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
-
-<br>
 
 <!-- Terminal Window Start -->
 <div align="center">
