@@ -123,7 +123,7 @@ int main(void) {
 
 <p align="center">
   <img src="https://img.shields.io/badge/📟_COMPILER-GCC_13.2-00C853?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/⚡_STATUS-RUNNING-00F7FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⚡_STATUS-RUNNING-FFD700?style=for-the-badge&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/🎯_EXIT_CODE-0x00-FF6EC7?style=for-the-badge&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/🔥_OPTIMIZATION-O3-6A5ACD?style=for-the-badge&labelColor=0d1117"/>
 </p>
