@@ -539,8 +539,6 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 <br>
 
 
-# 📊 GitHub Analytics
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
 <p align="center">
@@ -554,20 +552,9 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 <br>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunkireddy-Barath&theme=tokyonight&border_radius=20&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6EC7&currStreakLabel=00F7FF" width="100%"/>
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunkireddy-Barath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF6EC7&text_color=ffffff" width="100%"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunkireddy-Barath&theme=tokyonight&border_radius=20" />
+</p>
 </div>
 
 <br>
@@ -577,12 +564,6 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📈_COMMITS-Active-00F7FF?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🔥_STREAK-On_Fire-FF6EC7?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/⭐_CONTRIBUTIONS-Growing-6A5ACD?style=for-the-badge&labelColor=0d1117"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:FF6EC7,100:6A5ACD&height=3"/>
