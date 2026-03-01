@@ -18,13 +18,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
-<h2 align="center">
-  ⚡ <img src="https://img.shields.io/badge/SYSTEMS%20PROGRAMMING%20IDENTITY-00F7FF?style=for-the-badge&labelColor=0d1117&color=0d1117" height="0" width="0"/><span style="color:#00F7FF">SYSTEMS PROGRAMMING IDENTITY</span> ⚡
-</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=100000000&pause=100000000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+SYSTEMS+PROGRAMMING+IDENTITY+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=100000000&pause=100000000&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+SYSTEMS+PROGRAMMING+IDENTITY+⚡" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 <br>
 
