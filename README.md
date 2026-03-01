@@ -173,7 +173,7 @@ Passion: Aspiring SDE
 ### ⚡ Quick Facts
 
 <img src="https://img.shields.io/badge/🎓-CS_Engineering_Student-0d1117?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/💻-Full_Stack_Developer-00F7FF?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/💻-Full_Stack_Developer-00C853?style=flat-square"/><br>
 <img src="https://img.shields.io/badge/🤖-AI_&_ML_Engineer-FF6EC7?style=flat-square"/><br>
 <img src="https://img.shields.io/badge/🧠-800+_LeetCode_Solved-FFA116?style=flat-square"/><br>
 <img src="https://img.shields.io/badge/🏆-3x_Hackathon_Winner-FFD700?style=flat-square"/><br>
@@ -216,7 +216,7 @@ Passion: Aspiring SDE
 <td align="center" width="33%">
 
 ### 💻 KaizenSpark
-<img src="https://img.shields.io/badge/Full_Stack-Developer-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack-Developer-00C853?style=for-the-badge"/>
 <br>
 <img src="https://img.shields.io/badge/Duration-1_Month-0d1117?style=flat-square"/>
 <br><br>
@@ -229,7 +229,7 @@ Passion: Aspiring SDE
 </td>
 <td align="center" width="33%">
 
-### 📊 NullClass Edutech
+### 📊 NullClass Edutech Pvt Ltd
 <img src="https://img.shields.io/badge/Data_Science-Intern-FF6EC7?style=for-the-badge"/>
 <br>
 <img src="https://img.shields.io/badge/Duration-3_Months-0d1117?style=flat-square"/>
