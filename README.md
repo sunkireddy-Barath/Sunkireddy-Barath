@@ -503,15 +503,15 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 ### 🧠 Problem Solving
 <img src="https://img.shields.io/badge/Data_Structures-Expert-00C853?style=for-the-badge"/>
 <br><br>
-<img src="https://img.shields.io/badge/Algorithms-Advanced-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-Advanced-FFD700?style=for-the-badge"/>
 
 </td>
 <td align="center" width="50%">
 
 ### 🏆 Hackathon Victories
-<img src="https://img.shields.io/badge/Total_Wins-3x_Champion-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total_Wins-3x_Champion-00C853?style=for-the-badge"/>
 <br><br>
-<img src="https://img.shields.io/badge/Prize_Money-$4500%2B-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prize_Money-$4500%2B-FFD700?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -587,13 +587,7 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunkireddy-Barath&style=for-the-badge&color=00F7FF&labelColor=0d1117&label=PROFILE+VIEWS"/>
-</p>
-
 <br>
-
 
 <p align="center">
   ⭐ <b>Code • Build • Scale • Innovate</b>
