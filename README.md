@@ -18,10 +18,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Let's+Build+Something+Amazing+Together+🚀" />
-</h2>
-
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/⚙️_SYSTEMS-OS_LEVEL_C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a2e"/></a>
   <a href="#"><img src="https://img.shields.io/badge/🐧_KERNEL-LINUX_SYSCALLS-00F7FF?style=for-the-badge&labelColor=1a1a2e"/></a>
@@ -40,6 +36,10 @@
 <div align="center">
 <img width="600" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=45&section=header&text=🖥️%20barath@kernel:~%2Fos_programming&fontSize=16&fontColor=00F7FF&fontAlign=50&fontAlignY=55"/>
 </div>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Let's+Build+Something+Amazing+Together+🚀" />
+</h2>
 
 <div align="center">
 <a href="#">
