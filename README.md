@@ -88,7 +88,7 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 </p>
 
 <p align="center">
-AI-driven system for smart borrower-lender negotiation and financial decision optimization.
+AI-powered platform that automates borrower-lender negotiations and generates optimized financial agreements using intelligent decision models.
 </p>
 
 ### ✨ Key Highlights
