@@ -222,7 +222,7 @@ passion: Building Impactful Technology
 <img src="https://img.shields.io/badge/Node.js-Backend-68A063?style=flat-square&logo=nodedotjs"/>
 <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb"/>
 <br><br>
-<sub>🌐 Built company's official website<br>from scratch with complete<br>frontend UI, backend APIs &<br>database integration</sub>
+🌐 Built company's official website<br>from scratch with complete<br>frontend UI, backend APIs &<br>database integration
 
 </td>
 <td align="center" width="33%">
@@ -236,7 +236,7 @@ passion: Building Impactful Technology
 <img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square&logo=opencv"/>
 <img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python"/>
 <br><br>
-<sub>🎭 Built Emotion Detection AI model<br>1 month training + 2 months<br>development & optimization<br>Real-time facial emotion recognition</sub>
+🎭 Built Emotion Detection AI model<br>1 month training + 2 months<br>development & optimization<br>Real-time facial emotion recognition
 
 </td>
 <td align="center" width="33%">
@@ -250,7 +250,7 @@ passion: Building Impactful Technology
 <img src="https://img.shields.io/badge/Scalable-System-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/Enterprise-Grade-1E90FF?style=flat-square"/>
 <br><br>
-<sub>🎓 Built complete registration system<br>for CIT Chennai College<br>Scalable enterprise application<br>handling large-scale operations</sub>
+🎓 Built complete registration system<br>for CIT Chennai College<br>Scalable enterprise application<br>handling large-scale operations
 
 </td>
 </tr>
@@ -521,7 +521,7 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 
 | 🎯 Achievement | 🏅 Event | 💰 Prize |
 |:---:|:---:|:---:|
-| 🥇 **Winner** | Cardano Asia x IBW Hackathon 2025 | **$2000 USD** |
+| 🥇 **Winner** | Cardano Asia  IBW  Hackathon 2025 | **$2000 USD** |
 | 🥇 **Winner** | QIE International Blockchain 2026 | **$2500 USD** |
 | 🥈 **2nd Runner-Up** | BeachHack National 2026 | **₹20,000** |
 
