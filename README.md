@@ -16,10 +16,10 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=180&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=320&section=footer&animation=twinkling"/>
 </p>
 
-<p align="center">
+<div align="center">
 
 ```cpp
 #include <unistd.h>
@@ -41,6 +41,7 @@ int main() {
     write(1, goal, strlen(goal));
 
 }
+</div>```
 ---
 
 # 👨‍💻 About Me
