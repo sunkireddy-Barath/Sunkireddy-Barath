@@ -541,13 +541,55 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 
 # 📊 GitHub Analytics
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=00F7FF&center=true&vCenter=true&repeat=false&width=600&lines=📊+GITHUB+ANALYTICS+📊"/>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunkireddy-Barath&theme=tokyonight&border_radius=20&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6EC7&currStreakLabel=00F7FF" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sunkireddy-Barath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF6EC7&text_color=ffffff" width="100%"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunkireddy-Barath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" width="400"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📈_COMMITS-Active-00F7FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🔥_STREAK-On_Fire-FF6EC7?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⭐_CONTRIBUTIONS-Growing-6A5ACD?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:FF6EC7,100:6A5ACD&height=3"/>
+</p>
+
+<br>
 ---
-
-
 
 
 <!-- ================= CONNECT SECTION ================= -->
