@@ -245,9 +245,7 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
+
 
 ---
 
