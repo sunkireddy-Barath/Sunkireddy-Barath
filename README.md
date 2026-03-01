@@ -28,23 +28,7 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-<div style="
-border-radius:18px;
-padding:2px;
-background: linear-gradient(135deg,#6A5ACD,#00F7FF,#FF6EC7,#00F7FF,#6A5ACD);
-">
-
-<div style="
-background:#0d1117;
-border-radius:16px;
-padding:24px;
-">
-
-<pre style="margin:0; font-family:monospace; font-size:15px; line-height:1.6">
+<pre>
 
 <span style="color:#58a6ff">barath@kernel:~/os_programming</span>
 
@@ -68,14 +52,6 @@ padding:24px;
 </pre>
 
 </div>
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 
 # 👨‍💻 About Me
 
