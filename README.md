@@ -88,7 +88,7 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 </p>
 
 <p align="center">
-AI-powered platform that automates borrower-lender negotiations and generates optimized financial agreements using intelligent decision models.
+AI platform for automated borrower-lender negotiations with optimized financial agreements and risk assessment
 </p>
 
 ### ✨ Key Highlights
@@ -114,7 +114,7 @@ AI-powered platform that automates borrower-lender negotiations and generates op
 </p>
 
 <p align="center">
-AI-driven SOC system for vulnerability analysis, attack simulation, and risk prioritization.
+AI-driven SOC system for vulnerability analysis, attack simulation, and business-aware risk prioritization.
 </p>
 
 ### ✨ Key Highlights
@@ -140,7 +140,7 @@ AI-driven SOC system for vulnerability analysis, attack simulation, and risk pri
 </p>
 
 <p align="center">
-AI-driven on-chain credit passport that evaluates wallet activity and provides reusable credit scores via Soulbound NFTs for DeFi ecosystems.
+AI-driven on-chain credit passport that evaluates wallet activity and provides reusable credit scores via Soulbound NFTs for DeFi systems.
 </p>
 
 ### ✨ Key Highlights
