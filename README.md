@@ -14,44 +14,86 @@
   <img src="https://img.shields.io/badge/Backend-Strong-purple?style=for-the-badge" />
 </p>
 
-<h2 align="center">⚡ Systems Programming Identity ⚡</h2>
+<!-- ================= SYSTEMS PROGRAMMING IDENTITY ================= -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Systems+Programming+Identity+⚡;Low+Level+%7C+OS+%7C+Memory+Management" />
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️_Systems_Programming-OS_Level_C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🐧_Low_Level-Linux_Syscalls-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠_Memory-Pointers_&_Processes-FF6EC7?style=for-the-badge"/>
+</p>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/⚙️%20Systems%20Programming-OS%20Level%20C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Low%20Level-Linux%20Syscalls-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Memory-Pointers%20%26%20Processes-FF6EC7?style=for-the-badge"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true">
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
+<table>
+<tr>
+<td>
 
-<pre>
+```bash
+barath@kernel:~/os_programming$ cat about_me.c
+```
 
-<span style="color:#58a6ff">barath@kernel:~/os_programming</span>
-
-<span style="color:#00e5ff">#include</span> <span style="color:#7ee787">&lt;unistd.h&gt;</span>
-<span style="color:#00e5ff">#include</span> <span style="color:#7ee787">&lt;string.h&gt;</span>
-
-<span style="color:#ff7b72">int</span> <span style="color:#d2a8ff">main</span>() {
-
-    <span style="color:#ff7b72">const char</span> name[] =
-        <span style="color:#a5d6ff">"Name    : Barath\n"</span>;
-
-    <span style="color:#ff7b72">const char</span> passion[] =
-        <span style="color:#a5d6ff">"Passion : Coding, Full Stack Development, AI/ML\n"</span>;
-
-    <span style="color:#ff7b72">const char</span> goal[] =
-        <span style="color:#a5d6ff">"Goal    : Software Engineer &amp; Impactful Tech\n"</span>;
-
-    <span style="color:#00e5ff">write</span>(1, name, strlen(name));
-}
-
-</pre>
-
+</td>
+</tr>
+</table>
 </div>
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+```c
+/* ═══════════════════════════════════════════════════════════════
+ *  🖥️  BARATH'S IDENTITY - Written in Pure C
+ *  📍  Running on: Linux Kernel
+ *  ⚡  Compiled with: gcc -Wall -O2
+ * ═══════════════════════════════════════════════════════════════ */
+
+#include <unistd.h>
+#include <string.h>
+
+int main(void) {
+    
+    const char *profile[] = {
+        "╔══════════════════════════════════════════════════════╗\n",
+        "║  👤 Name    : Barath                                  ║\n",
+        "║  💻 Passion : Coding, Full Stack, AI/ML              ║\n", 
+        "║  🎯 Goal    : Software Engineer & Impactful Tech     ║\n",
+        "║  🔥 Status  : Building Something Amazing...          ║\n",
+        "╚══════════════════════════════════════════════════════╝\n",
+        NULL
+    };
+
+    for (int i = 0; profile[i] != NULL; i++) {
+        write(STDOUT_FILENO, profile[i], strlen(profile[i]));
+    }
+
+    return 0;  // Success! 🚀
+}
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📟_Output-Successfully_Compiled-00C853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/⚙️_Exit_Code-0-00F7FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🔧_Optimization-O2-FF6EC7?style=flat-square"/>
+</p>
 
 # 👨‍💻 About Me
 
