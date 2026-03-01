@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=220&section=footer&text=⭐%20Barath%20•%20SDE%20•%20AI%20Engineer%20⭐&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 </p>
 
 ---
