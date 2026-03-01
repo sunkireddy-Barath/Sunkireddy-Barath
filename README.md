@@ -77,16 +77,7 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 </p>
 
 
-# 🚀 Featured Projects
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Innovation-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FullStack-Engineering-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Blockchain-Systems-FF6EC7?style=for-the-badge"/>
-</p>
-
----
-
+# 🚀 Top Projects
 <!-- ================= LENDORA ================= -->
 
 <h2 align="center">🤖 Lendora AI — Intelligent Financial Negotiation System 🏆</h2>
@@ -208,6 +199,7 @@ Distributed AI education ecosystem designed for rural environments that works fu
 
 ---
 
+
 # 🏆 Achievements
 
 - 🧠 **800+ LeetCode Problems Solved**
@@ -217,6 +209,7 @@ Distributed AI education ecosystem designed for rural environments that works fu
 - 💼 Completed Multiple Industry Internships
 
 ---
+
 
 # 📊 GitHub Analytics
 
@@ -231,6 +224,7 @@ Distributed AI education ecosystem designed for rural environments that works fu
 
 ---
 
+
 # 🔥 Contribution Graph
 
 <p align="center">
@@ -238,6 +232,7 @@ Distributed AI education ecosystem designed for rural environments that works fu
 </p>
 
 ---
+
 
 # 📫 Connect With Me
 
@@ -255,6 +250,7 @@ Distributed AI education ecosystem designed for rural environments that works fu
 </p>
 
 ---
+
 
 <p align="center">
   ⭐ <b>Code • Build • Scale • Innovate</b>
