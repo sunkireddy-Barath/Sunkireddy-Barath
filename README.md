@@ -39,7 +39,7 @@
 
 <div align="center">
 <a href="#">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=⚡%20Code%20Execution%20Activity&bg_color=0d1117&color=00F7FF&line=FF6EC7&point=6A5ACD&area=true&area_color=1a1a2e&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunkireddy-Barath&custom_title=⚡%20Code%20Execution%20Activity&bg_color=0d1117&color=00F7FF&line=FF6EC7&point=6A5ACD&area=true&area_color=1a1a2e&hide_border=true" width="95%"/>
 </a>
 </div>
 
