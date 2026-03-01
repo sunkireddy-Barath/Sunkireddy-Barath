@@ -88,7 +88,7 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 </p>
 
 <p align="center">
-AI-powered financial negotiation platform that automates borrower-lender interactions and generates optimized agreements using intelligent decision models and predictive risk analysis.
+AI-driven system for smart borrower-lender negotiation and financial decision optimization.
 </p>
 
 ### ✨ Key Highlights
@@ -114,7 +114,7 @@ AI-powered financial negotiation platform that automates borrower-lender interac
 </p>
 
 <p align="center">
-Multi-agent AI Security Operations Center (SOC) that analyzes vulnerabilities, simulates cyber attack paths using graph theory, and prioritizes risks using business-aware scoring models.
+AI-driven SOC system for vulnerability analysis, attack simulation, and risk prioritization.
 </p>
 
 ### ✨ Key Highlights
@@ -140,7 +140,7 @@ Multi-agent AI Security Operations Center (SOC) that analyzes vulnerabilities, s
 </p>
 
 <p align="center">
-AI-powered decentralized credit identity system that analyzes wallet behavior and stores reusable credit scores as Soulbound NFTs for DeFi lending ecosystems.
+AI-driven on-chain credit passport that evaluates wallet activity and provides reusable credit scores via Soulbound NFTs for DeFi ecosystems.
 </p>
 
 ### ✨ Key Highlights
@@ -161,7 +161,7 @@ AI-powered decentralized credit identity system that analyzes wallet behavior an
 <h2 align="center">🌾 AgriSmart — AI Smart Agriculture Platform</h2>
 
 <p align="center">
-Intelligent agriculture assistant providing crop recommendations, plant disease detection, weather insights, and multilingual voice interaction for farmers.
+Smart agriculture assistant providing crop recommendations, disease detection, weather insights, and voice interaction.
 </p>
 
 ### ✨ Key Highlights
@@ -182,7 +182,7 @@ Intelligent agriculture assistant providing crop recommendations, plant disease 
 <h2 align="center">🤝 P.E.E.R — Offline-First AI Learning Platform</h2>
 
 <p align="center">
-Distributed AI education ecosystem designed for rural environments that works fully offline using on-device AI inference and peer-to-peer synchronization.
+Distributed AI education ecosystem for rural areas with offline AI inference and peer-to-peer synchronization.
 </p>
 
 ### ✨ Key Highlights
