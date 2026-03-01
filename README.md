@@ -56,6 +56,7 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql" />
 </p>
+
 ## 🎨 Frontend & Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
@@ -72,6 +73,7 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
   <br/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 ---
 
