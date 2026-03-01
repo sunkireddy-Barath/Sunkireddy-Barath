@@ -96,15 +96,15 @@ int main(void) {
         .hackathon_wins = 3
     };
 
-    printf(BOLD CYAN "╔═══════════════════════════════════════════════════════════════════╗\n" RESET);
-    printf(BOLD CYAN "║" MAGENTA "    ⚡ BARATH.SYS — Systems Programming Mode: ACTIVE ⚡    " CYAN "║\n" RESET);
-    printf(BOLD CYAN "╠═══════════════════════════════════════════════════════════════════╣\n" RESET);
-    printf(CYAN "║ " YELLOW "👤 NAME     " RESET "➜ " GREEN "%-50s" CYAN " ║\n" RESET, barath.name);
-    printf(CYAN "║ " YELLOW "💼 ROLE     " RESET "➜ " GREEN "%-50s" CYAN " ║\n" RESET, barath.role);
-    printf(CYAN "║ " YELLOW "🧠 LEETCODE " RESET "➜ " GREEN "%-50s" CYAN " ║\n" RESET, "800+ Problems Solved");
-    printf(CYAN "║ " YELLOW "🏆 WINS     " RESET "➜ " GREEN "%-50s" CYAN " ║\n" RESET, "3x Hackathon Champion");
-    printf(CYAN "║ " YELLOW "🚀 STATUS   " RESET "➜ " RED "%-50s" CYAN " ║\n" RESET, "Building Something Revolutionary...");
-    printf(BOLD CYAN "╚═══════════════════════════════════════════════════════════════════╝\n" RESET);
+    printf(BOLD CYAN "╔═════════════════════════════════════════════════════════════════╗\n" RESET);
+    printf(BOLD CYAN "║" MAGENTA "   ⚡ BARATH.SYS — Systems Programming Mode: ACTIVE ⚡   " CYAN "║\n" RESET);
+    printf(BOLD CYAN "╠═════════════════════════════════════════════════════════════════╣\n" RESET);
+    printf(CYAN "║  " YELLOW "👤 NAME      " RESET "➜  " GREEN "Barath Sunkireddy                    " CYAN "║\n" RESET);
+    printf(CYAN "║  " YELLOW "💼 ROLE      " RESET "➜  " GREEN "Software Development Engineer        " CYAN "║\n" RESET);
+    printf(CYAN "║  " YELLOW "🧠 LEETCODE  " RESET "➜  " GREEN "800+ Problems Solved                 " CYAN "║\n" RESET);
+    printf(CYAN "║  " YELLOW "🏆 WINS      " RESET "➜  " GREEN "3x Hackathon Champion                " CYAN "║\n" RESET);
+    printf(CYAN "║  " YELLOW "🚀 STATUS    " RESET "➜  " RED "Building Something Revolutionary...  " CYAN "║\n" RESET);
+    printf(BOLD CYAN "╚═════════════════════════════════════════════════════════════════╝\n" RESET);
 
     return EXIT_SUCCESS;
 }
