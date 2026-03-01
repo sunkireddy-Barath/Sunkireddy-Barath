@@ -16,32 +16,8 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=320&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=260&section=footer&animation=twinkling&fontSize=18&fontColor=ffffff&text=%23include%20%3Cunistd.h%3E%20%7C%20%23include%20%3Cstring.h%3E&desc=int%20main()%20%7B%20write(1,%20%22Barath%20-%20AI%20%26%20SDE%22,%2019);%20%7D&descAlignY=60"/>
 </p>
-
-<div align="center">
-
-```cpp
-#include <unistd.h>
-#include <string.h>
-
-int main() {
-
-    const char name[] =
-        "Name    : Barath\n";
-
-    const char passion[] =
-        "Passion : Coding, Full Stack Development, AI/ML\n";
-
-    const char goal[] =
-        "Goal    : To become a skilled Software Engineer and build impactful technology\n";
-
-    write(1, name, strlen(name));
-    write(1, passion, strlen(passion));
-    write(1, goal, strlen(goal));
-
-}
-</div>```
 ---
 
 # 👨‍💻 About Me
