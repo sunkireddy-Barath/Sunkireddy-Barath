@@ -556,7 +556,7 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=FF6EC7&center=true&vCenter=true&repeat=false&width=600&lines=📫+LET'S+CONNECT+📫"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=FF6EC7&center=true&vCenter=true&repeat=false&width=600&lines=📫+LET'S+CONNECT+WITH+ME+📫"/>
 </p>
 
 <div align="center">
