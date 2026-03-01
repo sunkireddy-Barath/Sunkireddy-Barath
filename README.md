@@ -18,11 +18,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/⚙️_SYSTEMS-OS_LEVEL_C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a2e"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/🐧_KERNEL-LINUX_SYSCALLS-00F7FF?style=for-the-badge&labelColor=1a1a2e"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/🧠_MEMORY-POINTERS_&_PROCESSES-FF6EC7?style=for-the-badge&labelColor=1a1a2e"/></a>
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+SYSTEMS+PROGRAMMING+IDENTITY+⚡" />
+</h2>
 
 <br>
 
@@ -34,7 +32,7 @@
 
 <!-- Terminal Window Start -->
 <div align="center">
-<img width="600" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=45&section=header&text=🖥️%20barath@kernel:~%2Fos_programming&fontSize=16&fontColor=00F7FF&fontAlign=50&fontAlignY=55"/>
+<img width="700" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,4,6,8&height=50&section=header&text=🖥️%20barath@kernel:~%2Fos_programming%20$&fontSize=18&fontColor=00F7FF&fontAlign=50&fontAlignY=50"/>
 </div>
 
 <div align="center">
@@ -45,71 +43,89 @@
 
 <br>
 
+<!-- Code Block with Enhanced Design -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3"/>
+</div>
+
 <div align="center">
 
-```cpp
-/*╔═══════════════════════════════════════════════════════════════════════════════════╗
-  ║                                                                                   ║
-  ║   ██████╗  █████╗ ██████╗  █████╗ ████████╗██╗  ██╗    ██████╗ ███████╗██╗   ██╗  ║
-  ║   ██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ██╔══██╗██╔════╝██║   ██║  ║
-  ║   ██████╔╝███████║██████╔╝███████║   ██║   ███████║    ██║  ██║█████╗  ██║   ██║  ║
-  ║   ██╔══██╗██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝  ║
-  ║   ██████╔╝██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║    ██████╔╝███████╗ ╚████╔╝   ║
-  ║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝    ║
-  ║                                                                                   ║
-  ║   🔥 IDENTITY ENGINE v2.0 | Compiled with passion | Running on determination 🔥   ║
-  ║                                                                                   ║
-  ╚═══════════════════════════════════════════════════════════════════════════════════╝*/
+```c
+/************************************************************************************
+ *                                                                                  *
+ *    ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗                  *
+ *    ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝                  *
+ *    ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗                  *
+ *    ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║                  *
+ *    ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║                  *
+ *    ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝                  *
+ *                                                                                  *
+ *    ██████╗ ██████╗  ██████╗  ██████╗ ██████╗  █████╗ ███╗   ███╗███╗   ███╗       *
+ *    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔══██╗██╔══██╗████╗ ████║████╗ ████║       *
+ *    ██████╔╝██████╔╝██║   ██║██║  ███╗██████╔╝███████║██╔████╔██║██╔████╔██║       *
+ *    ██╔═══╝ ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║██║╚██╔╝██║       *
+ *    ██║     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║       *
+ *    ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝       *
+ *                                                                                  *
+ *    🔥 BARATH'S IDENTITY ENGINE v3.0 | Compiled with Passion & Determination 🔥    *
+ *                                                                                  *
+ ************************************************************************************/
 
-#include <unistd.h>      // 🔧 POSIX operating system API
-#include <string.h>      // 📝 String manipulation functions
-#include <stdio.h>       // 🖨️ Standard I/O operations
+#include <stdio.h>       /* 📟 Standard I/O      */
+#include <stdlib.h>      /* 🔧 Memory Management */
+#include <unistd.h>      /* 🐧 POSIX API         */
 
-#define CYAN    "\033[36m"
-#define MAGENTA "\033[35m"
-#define GREEN   "\033[32m"
-#define YELLOW  "\033[33m"
-#define RESET   "\033[0m"
-#define BOLD    "\033[1m"
+/* ═══════════════════════ ANSI COLOR CODES ═══════════════════════ */
+#define NEON_CYAN    "\x1b[38;2;0;247;255m"
+#define HOT_PINK     "\x1b[38;2;255;110;199m"
+#define ELECTRIC     "\x1b[38;2;106;90;205m"
+#define LIME         "\x1b[38;2;0;255;127m"
+#define RESET        "\x1b[0m"
+#define BOLD         "\x1b[1m"
+#define BLINK        "\x1b[5m"
 
+/* ═══════════════════════ PROFILE STRUCTURE ═══════════════════════ */
 typedef struct {
-    const char *icon;
-    const char *key;
-    const char *value;
-} Profile;
+    char *icon;
+    char *field;
+    char *data;
+} Developer;
 
 int main(void) {
     
-    Profile barath[] = {
-        {"👤", "Name",      "Barath Sunkireddy"},
-        {"💻", "Passion",   "Coding • Full Stack • AI/ML"},
-        {"🎯", "Goal",      "Software Engineer & Impactful Tech"},
-        {"🏆", "Achieve",   "800+ LeetCode • 3x Hackathon Winner"},
-        {"🔥", "Status",    "Building Something Revolutionary..."},
-        {NULL, NULL, NULL}
+    Developer barath[] = {
+        { "👤", "NAME",     "Barath Sunkireddy"                    },
+        { "💻", "PASSION",  "Full Stack • AI/ML • Systems"         },
+        { "🎯", "MISSION",  "Build Impactful Technology"           },
+        { "🏆", "WINS",     "800+ LC | 3x Hackathon Champion"      },
+        { "🚀", "STATUS",   "Crafting Something Revolutionary..."  },
+        { NULL,  NULL,       NULL                                  }
     };
 
-    // ═══════════════════════════════════════════════════════════════
-    printf(BOLD CYAN "\n   ╔════════════════════════════════════════════════════════╗\n" RESET);
-    printf(BOLD CYAN "   ║" MAGENTA "  ⚡ BARATH.EXE - Systems Programming Mode Activated ⚡  " CYAN "║\n" RESET);
-    printf(BOLD CYAN "   ╠════════════════════════════════════════════════════════╣\n" RESET);
-    
-    for (int i = 0; barath[i].icon != NULL; i++) {
-        printf(CYAN "   ║  " RESET);
-        printf("%s " YELLOW "%-10s" RESET " : " GREEN "%s" RESET, 
-               barath[i].icon, barath[i].key, barath[i].value);
-        printf(CYAN "%*s║\n" RESET, (int)(38 - strlen(barath[i].value)), "");
-    }
-    
-    printf(BOLD CYAN "   ╚════════════════════════════════════════════════════════╝\n\n" RESET);
-    // ═══════════════════════════════════════════════════════════════
+    printf(BOLD NEON_CYAN "\n");
+    printf("    ╔══════════════════════════════════════════════════════════╗\n");
+    printf("    ║" HOT_PINK "  ⚡ BARATH.EXE — Systems Programming Mode: ACTIVE ⚡  " NEON_CYAN "║\n");
+    printf("    ╠══════════════════════════════════════════════════════════╣\n" RESET);
 
-    return 0;  // ✅ Exit Code: SUCCESS
+    for (int i = 0; barath[i].icon; i++) {
+        printf(NEON_CYAN "    ║  " RESET);
+        printf("%s " ELECTRIC "%-8s" RESET " → " LIME "%s" RESET, 
+               barath[i].icon, barath[i].field, barath[i].data);
+        printf(NEON_CYAN "  ║\n" RESET);
+    }
+
+    printf(BOLD NEON_CYAN "    ╚══════════════════════════════════════════════════════════╝\n\n" RESET);
+
+    return 0;  /* ✅ Process exited successfully */
 }
 
-// 🚀 Compile: gcc -o barath barath.c && ./barath
+/* 🔥 gcc -o barath identity.c && ./barath */
 ```
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3"/>
 </div>
 
 <br>
