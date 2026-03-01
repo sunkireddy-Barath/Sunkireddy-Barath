@@ -60,7 +60,6 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 ## 🎨 Frontend & Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,figma" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" />
 </p>
 
 ## ⚙️ Backend & Databases
@@ -80,67 +79,122 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
 
 # 🚀 Featured Projects
 
-## 🤖 Lendora AI — Intelligent Financial Negotiation System 🏆
-🏆 **Winner — Cardano Asia x IBW Hackathon 2025**  
-💰 **Prize: $2000 USD**
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Innovation-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FullStack-Engineering-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blockchain-Systems-FF6EC7?style=for-the-badge"/>
+</p>
 
-An AI-powered financial negotiation platform that automates borrower-lender interactions and generates optimized agreements using intelligent decision models and predictive risk analysis.
+---
+
+<!-- ================= LENDORA ================= -->
+
+<h2 align="center">🤖 Lendora AI — Intelligent Financial Negotiation System 🏆</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Winner-Cardano%20Asia%20x%20IBW%202025-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prize-$2000%20USD-00C853?style=for-the-badge"/>
+</p>
+
+<p align="center">
+AI-powered financial negotiation platform that automates borrower-lender interactions and generates optimized agreements using intelligent decision models and predictive risk analysis.
+</p>
+
+### ✨ Key Highlights
 
 - AI negotiation engine with dynamic pricing logic  
 - Financial decision optimization algorithms  
 - Blockchain integration for transparency and trust  
 - Backend-heavy architecture for scalable financial systems  
 
-**Tech:** Full Stack • AI • Blockchain  
+### 🛠 Tech Stack
+
+`Full Stack` • `AI` • `Blockchain` • `Backend Systems`
 
 ---
 
-## 🧠 Contexta — Autonomous AI Threat Intelligence Platform 🥈
-🏆 **2nd Runner-Up — BeachHack National Hackathon 2026**  
-💰 **Prize: ₹20,000**
+<!-- ================= CONTEXTA ================= -->
 
-A multi-agent AI Security Operations Center (SOC) that analyzes vulnerabilities, simulates cyber attack paths using graph theory, and prioritizes risks using business-aware scoring models.
+<h2 align="center">🧠 Contexta — Autonomous AI Threat Intelligence Platform 🥈</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2nd%20Runner%20Up-BeachHack%202026-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prize-₹20,000-00C853?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Multi-agent AI Security Operations Center (SOC) that analyzes vulnerabilities, simulates cyber attack paths using graph theory, and prioritizes risks using business-aware scoring models.
+</p>
+
+### ✨ Key Highlights
 
 - Multi-agent AI orchestration architecture  
 - Digital twin network simulation using NetworkX  
 - Custom Business Weighted Vulnerability Score (BWVS)  
 - Immutable audit logging and automated mitigation insights  
 
-**Tech:** FastAPI • PostgreSQL • Redis • NetworkX • Docker  
+### 🛠 Tech Stack
+
+`FastAPI` • `PostgreSQL` • `Redis` • `NetworkX` • `Docker` • `AI`
 
 ---
 
-## 🧬 NeuroCred — AI On-Chain Credit Passport 🏆
-🏆 **Winner — QIE International Blockchain Hackathon 2026**  
-💰 **Prize: $2500 USD**
+<!-- ================= NEUROCRED ================= -->
 
-An AI-powered decentralized credit identity system that analyzes wallet behavior and stores reusable credit scores as Soulbound NFTs for DeFi lending ecosystems.
+<h2 align="center">🧬 NeuroCred — AI On-Chain Credit Passport 🏆</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Winner-QIE%20International%202026-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prize-$2500%20USD-00C853?style=for-the-badge"/>
+</p>
+
+<p align="center">
+AI-powered decentralized credit identity system that analyzes wallet behavior and stores reusable credit scores as Soulbound NFTs for DeFi lending ecosystems.
+</p>
+
+### ✨ Key Highlights
 
 - AI wallet behavior scoring engine  
 - Smart contract lending vault and staking logic  
 - NFT-based credit passport with on-chain identity  
 - AI chat-based loan negotiation with blockchain settlement  
 
-**Tech:** Solidity • FastAPI • Next.js • Web3  
+### 🛠 Tech Stack
+
+`Solidity` • `FastAPI` • `Next.js` • `Web3` • `AI`
 
 ---
 
-## 🌾 AgriSmart — AI Smart Agriculture Platform
+<!-- ================= AGRISMART ================= -->
 
-An intelligent agriculture assistant providing crop recommendations, plant disease detection, weather insights, and multilingual voice interaction for farmers.
+<h2 align="center">🌾 AgriSmart — AI Smart Agriculture Platform</h2>
+
+<p align="center">
+Intelligent agriculture assistant providing crop recommendations, plant disease detection, weather insights, and multilingual voice interaction for farmers.
+</p>
+
+### ✨ Key Highlights
 
 - Machine learning crop recommendation models  
 - Plant disease detection via AI APIs  
 - Weather intelligence integration  
 - Voice assistant and multilingual support  
 
-**Tech:** React • Flask • Machine Learning  
+### 🛠 Tech Stack
+
+`React` • `Flask` • `Machine Learning` • `APIs`
 
 ---
 
-## 🤝 P.E.E.R — Offline-First AI Learning Platform
+<!-- ================= PEER ================= -->
 
-A distributed AI education ecosystem designed for rural environments that works fully offline using on-device AI inference and peer-to-peer synchronization.
+<h2 align="center">🤝 P.E.E.R — Offline-First AI Learning Platform</h2>
+
+<p align="center">
+Distributed AI education ecosystem designed for rural environments that works fully offline using on-device AI inference and peer-to-peer synchronization.
+</p>
+
+### ✨ Key Highlights
 
 - Offline AI tutoring using local models  
 - RAG pipeline over educational content  
@@ -148,7 +202,9 @@ A distributed AI education ecosystem designed for rural environments that works 
 - Gamification and peer learning economy  
 - Hardware integration with ESP32  
 
-**Tech:** React Native • SQLite • CRDT • ONNX • ESP32  
+### 🛠 Tech Stack
+
+`React Native` • `SQLite` • `CRDT` • `ONNX` • `ESP32`
 
 ---
 
