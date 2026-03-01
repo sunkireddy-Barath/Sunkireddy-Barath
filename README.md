@@ -160,11 +160,11 @@ int main(void) {
 ### 🚀 Who Am I?
 
 ```yaml
-name: Barath Sunkireddy
-role: Software Development Engineer
-education: Computer Science Engineering
-location: India 🇮🇳
-passion: Building Impactful Technology
+Name: Sunkireddy Barath 
+Role: Software Development Engineer
+Education: Computer Science Engineering
+Location: India,Tamil Nadu,Chennai
+Passion: Aspiring SDE
 ```
 
 </td>
@@ -246,7 +246,7 @@ passion: Building Impactful Technology
 ### 🏗️ BSAP
 <img src="https://img.shields.io/badge/SDE-Intern-6A5ACD?style=for-the-badge"/>
 <br>
-<img src="https://img.shields.io/badge/Role-Software_Engineer-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Duration-3_Months-0d1117?style=flat-square"/>
 <br><br>
 <img src="https://img.shields.io/badge/Full_Stack-App-FFD700?style=flat-square"/>
 <img src="https://img.shields.io/badge/Scalable-System-00C853?style=flat-square"/>
