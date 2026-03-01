@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Systems%20Programming-OS%20Level%20C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚙️%20Systems%20Programming-OS%20Level%20C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </div>
 
@@ -28,35 +28,61 @@
 
 <table>
 <tr>
-<td style="border-radius:15px; padding:20px; background: linear-gradient(135deg,#0d1117,#161b22); box-shadow: 0px 0px 25px rgba(0,247,255,0.25); border:1px solid rgba(0,247,255,0.3);">
+<td>
 
-<pre>
+<div style="
+border-radius:16px;
+padding:2px;
+background: linear-gradient(135deg,#6A5ACD,#00F7FF,#FF6EC7,#00F7FF,#6A5ACD);
+box-shadow: 0px 0px 30px rgba(0,247,255,0.25);
+">
 
-#include &lt;unistd.h&gt;
-#include &lt;string.h&gt;
+<div style="
+background:#0d1117;
+border-radius:14px;
+padding:20px;
+font-family: monospace;
+">
 
-int main() {
+<!-- Terminal Header -->
+<div style="display:flex; gap:8px; margin-bottom:12px;">
+<div style="width:12px;height:12px;border-radius:50%;background:#ff5f56;"></div>
+<div style="width:12px;height:12px;border-radius:50%;background:#ffbd2e;"></div>
+<div style="width:12px;height:12px;border-radius:50%;background:#27c93f;"></div>
+<span style="margin-left:10px;color:#8b949e;font-size:13px;">
+barath@system:~/os_programming
+</span>
+</div>
 
-    const char name[] =
-        "Name    : Barath\n";
+<pre style="margin:0">
 
-    const char passion[] =
-        "Passion : Coding, Full Stack Development, AI/ML\n";
+<span style="color:#79c0ff">#include</span> &lt;unistd.h&gt;
+<span style="color:#79c0ff">#include</span> &lt;string.h&gt;
 
-    const char goal[] =
-        "Goal    : Software Engineer & Impactful Tech\n";
+<span style="color:#ff7b72">int</span> <span style="color:#d2a8ff">main</span>() {
 
-    write(1, name, strlen(name));
+    <span style="color:#ff7b72">const char</span> name[] =
+        <span style="color:#a5d6ff">"Name    : Barath\n"</span>;
+
+    <span style="color:#ff7b72">const char</span> passion[] =
+        <span style="color:#a5d6ff">"Passion : Coding, Full Stack Development, AI/ML\n"</span>;
+
+    <span style="color:#ff7b72">const char</span> goal[] =
+        <span style="color:#a5d6ff">"Goal    : Software Engineer & Impactful Tech\n"</span>;
+
+    <span style="color:#79c0ff">write</span>(1, name, strlen(name));
 }
 
 </pre>
+
+</div>
+</div>
 
 </td>
 </tr>
 </table>
 
 </div>
-
 
 # 👨‍💻 About Me
 
