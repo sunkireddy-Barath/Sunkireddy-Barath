@@ -14,11 +14,9 @@
   <img src="https://img.shields.io/badge/Backend-Strong-purple?style=for-the-badge" />
 </p>
 
-
 <p align="center">
-<imgsrc="https://capsulerender.vercel.app/apitype=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=220&section=footer&text=fork()%20%E2%80%A2%20exec()%20%E2%80%A2%20malloc()%20%E2%80%A2%20syscalls&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Pointers%20%7C%20Processes%20%7C%20Memory%20Management%20%7C%20OS%20Mindset&descAlignY=45&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=220&section=footer&text=fork()%20%E2%80%A2%20exec()%20%E2%80%A2%20malloc()%20%E2%80%A2%20syscalls&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Pointers%20%7C%20Processes%20%7C%20Memory%20Management%20%7C%20OS%20Mindset&descAlignY=45&descSize=16"/>
 </p>
-
 ---
 
 # 👨‍💻 About Me
