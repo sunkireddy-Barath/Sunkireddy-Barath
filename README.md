@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OS-Level-C%2B%2B-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Systems%20Programming-OS%20Level%20C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </div>
 
@@ -28,24 +28,34 @@
 
 <table>
 <tr>
-<td>
+<td style="border-radius:15px; padding:20px; background: linear-gradient(135deg,#0d1117,#161b22); box-shadow: 0px 0px 25px rgba(0,247,255,0.25); border:1px solid rgba(0,247,255,0.3);">
 
-```cpp
-#include <unistd.h>
-#include <string.h>
+<pre>
+
+#include &lt;unistd.h&gt;
+#include &lt;string.h&gt;
+
 int main() {
+
     const char name[] =
         "Name    : Barath\n";
+
     const char passion[] =
         "Passion : Coding, Full Stack Development, AI/ML\n";
+
     const char goal[] =
         "Goal    : Software Engineer & Impactful Tech\n";
+
     write(1, name, strlen(name));
 }
-```
-</td> </tr> </table> </div>
 
+</pre>
 
+</td>
+</tr>
+</table>
+
+</div>
 
 
 # 👨‍💻 About Me
