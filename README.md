@@ -248,5 +248,5 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=220&section=footer&text=⭐%20Barath%20•%20SDE%20•%20AI%20Engineer%20⭐&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=200&section=footer&text=Code%20•%20Build%20•%20Innovate&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 </p>
