@@ -96,15 +96,15 @@ int main(void) {
         .hackathon_wins = 3
     };
 
-    printf(BOLD CYAN "╔═════════════════════════════════════════════════════════════════╗\n" RESET);
-    printf(BOLD CYAN "║" MAGENTA "   ⚡ BARATH.SYS — Systems Programming Mode: ACTIVE ⚡   " CYAN "║\n" RESET);
-    printf(BOLD CYAN "╠═════════════════════════════════════════════════════════════════╣\n" RESET);
-    printf(CYAN "║  " YELLOW "👤 NAME      " RESET "➜  " GREEN "Barath Sunkireddy                    " CYAN "║\n" RESET);
-    printf(CYAN "║  " YELLOW "💼 ROLE      " RESET "➜  " GREEN "Software Development Engineer        " CYAN "║\n" RESET);
-    printf(CYAN "║  " YELLOW "🧠 LEETCODE  " RESET "➜  " GREEN "800+ Problems Solved                 " CYAN "║\n" RESET);
-    printf(CYAN "║  " YELLOW "🏆 WINS      " RESET "➜  " GREEN "3x Hackathon Champion                " CYAN "║\n" RESET);
-    printf(CYAN "║  " YELLOW "🚀 STATUS    " RESET "➜  " RED "Building Something Revolutionary...  " CYAN "║\n" RESET);
-    printf(BOLD CYAN "╚═════════════════════════════════════════════════════════════════╝\n" RESET);
+    printf("╔═════════════════════════════════════════════════════════════╗\n");
+    printf("║   ⚡ BARATH.SYS — Systems Programming Mode: ACTIVE ⚡      ║\n");
+    printf("╠═════════════════════════════════════════════════════════════╣\n");
+    printf("║  👤 NAME      ➜  Barath Sunkireddy                         ║\n");
+    printf("║  💼 ROLE      ➜  Software Development Engineer             ║\n");
+    printf("║  🧠 LEETCODE  ➜  800+ Problems Solved                      ║\n");
+    printf("║  🏆 WINS      ➜  3x Hackathon Champion                     ║\n");
+    printf("║  🚀 STATUS    ➜  Building Something Revolutionary...       ║\n");
+    printf("╚═════════════════════════════════════════════════════════════╝\n");
 
     return EXIT_SUCCESS;
 }
