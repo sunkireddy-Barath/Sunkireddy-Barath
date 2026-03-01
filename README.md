@@ -558,11 +558,6 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunkireddy-Barath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" width="400"/>
-</p>
-
 <br>
 
 <p align="center">
@@ -570,7 +565,6 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 </p>
 
 <br>
----
 
 
 <!-- ================= CONNECT SECTION ================= -->
