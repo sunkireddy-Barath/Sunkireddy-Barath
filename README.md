@@ -216,9 +216,7 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=20" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=20" />
-</p>
+
 
 ---
 
