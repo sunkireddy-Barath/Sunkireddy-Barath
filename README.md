@@ -46,42 +46,28 @@ font-family: monospace;
 ">
 
 <!-- Terminal Header -->
-<div style="display:flex; align-items:center; gap:8px; margin-bottom:14px;">
-<div style="width:12px;height:12px;border-radius:50%;background:#ff5f56;"></div>
-<div style="width:12px;height:12px;border-radius:50%;background:#ffbd2e;"></div>
-<div style="width:12px;height:12px;border-radius:50%;background:#27c93f;"></div>
-<span style="margin-left:10px;color:#58a6ff;font-size:13px;">
-barath@kernel:~/os_programming
-</span>
-</div>
+<div style="font-family:monospace; font-size:15px; line-height:1.5">
 
-<pre style="margin:0; font-size:15px; line-height:1.5">
+<span style="color:#58a6ff">barath@kernel:~/os_programming</span>
 
-<span style="color:#79c0ff">#include</span> <span style="color:#a5d6ff">&lt;unistd.h&gt;</span>
-<span style="color:#79c0ff">#include</span> <span style="color:#a5d6ff">&lt;string.h&gt;</span>
+<br>
 
-<span style="color:#ff7b72">int</span> <span style="color:#d2a8ff">main</span>() {
+<span style="color:#79c0ff">#include</span> <span style="color:#a5d6ff">&lt;unistd.h&gt;</span><br>
+<span style="color:#79c0ff">#include</span> <span style="color:#a5d6ff">&lt;string.h&gt;</span><br><br>
 
-    <span style="color:#ff7b72">const char</span> name[] =
-        <span style="color:#a5d6ff">"Name    : Barath\n"</span>;
+<span style="color:#ff7b72">int</span> <span style="color:#d2a8ff">main</span>() {<br><br>
 
-    <span style="color:#ff7b72">const char</span> passion[] =
-        <span style="color:#a5d6ff">"Passion : Coding, Full Stack Development, AI/ML\n"</span>;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72">const char</span> name[] =<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a5d6ff">"Name    : Barath\n"</span>;<br><br>
 
-    <span style="color:#ff7b72">const char</span> goal[] =
-        <span style="color:#a5d6ff">"Goal    : Software Engineer & Impactful Tech\n"</span>;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72">const char</span> passion[] =<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a5d6ff">"Passion : Coding, Full Stack Development, AI/ML\n"</span>;<br><br>
 
-    <span style="color:#79c0ff">write</span>(1, name, strlen(name));
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72">const char</span> goal[] =<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a5d6ff">"Goal    : Software Engineer &amp; Impactful Tech\n"</span>;<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#79c0ff">write</span>(1, name, strlen(name));<br>
 }
-
-</pre>
-
-</div>
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
