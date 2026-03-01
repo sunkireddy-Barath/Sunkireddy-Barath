@@ -14,31 +14,38 @@
   <img src="https://img.shields.io/badge/Backend-Strong-purple?style=for-the-badge" />
 </p>
 
+<h2 align="center">⚡ Systems Programming Identity ⚡</h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=360&section=header&animation=twinkling"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://img.shields.io/badge/OS-Level-C%2B%2B-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
 ```cpp
 #include <unistd.h>
 #include <string.h>
-
 int main() {
-
     const char name[] =
         "Name    : Barath\n";
-
     const char passion[] =
         "Passion : Coding, Full Stack Development, AI/ML\n";
-
     const char goal[] =
         "Goal    : Software Engineer & Impactful Tech\n";
-
     write(1, name, strlen(name));
 }
 ```
-</p>
+</td> </tr> </table> </div>
+
+
 
 
 # 👨‍💻 About Me
