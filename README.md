@@ -17,9 +17,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=260&section=header&animation=twinkling"/>
-<div align="center" style="margin-top:-140px;">
-</p>
-```cpp
+  ```cpp
 #include <unistd.h>
 #include <string.h>
 
@@ -36,8 +34,8 @@ int main() {
 
     write(1, name, strlen(name));
 }
-</div>
-```
+</p>
+
 
 # 👨‍💻 About Me
 
