@@ -225,18 +225,6 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 ---
 
 
-# 🔥 Contribution Graph
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
 
 
 # 📫 Connect With Me
@@ -260,5 +248,5 @@ Distributed AI education ecosystem for rural areas with offline AI inference and
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 </p>
