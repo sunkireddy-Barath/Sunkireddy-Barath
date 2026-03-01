@@ -37,10 +37,6 @@
 <img width="600" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=45&section=header&text=🖥️%20barath@kernel:~%2Fos_programming&fontSize=16&fontColor=00F7FF&fontAlign=50&fontAlignY=55"/>
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Let's+Build+Something+Amazing+Together+🚀" />
-</h2>
-
 <div align="center">
 <a href="#">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=⚡%20Code%20Execution%20Activity&bg_color=0d1117&color=00F7FF&line=FF6EC7&point=6A5ACD&area=true&area_color=1a1a2e&hide_border=true" width="95%"/>
@@ -135,6 +131,10 @@ int main(void) {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,25&height=80&section=footer&animation=twinkling"/>
 </div>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Let's+Build+Something+Amazing+Together+🚀" />
+</h2>
 
 # 👨‍💻 About Me
 
