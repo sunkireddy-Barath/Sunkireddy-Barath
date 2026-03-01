@@ -14,9 +14,33 @@
   <img src="https://img.shields.io/badge/Backend-Strong-purple?style=for-the-badge" />
 </p>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=220&section=footer&text=fork()%20%E2%80%A2%20exec()%20%E2%80%A2%20malloc()%20%E2%80%A2%20syscalls&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Pointers%20%7C%20Processes%20%7C%20Memory%20Management%20%7C%20OS%20Mindset&descAlignY=45&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,25:00F7FF,50:FF6EC7,75:00F7FF,100:6A5ACD&height=180&section=footer&animation=twinkling"/>
 </p>
+
+<p align="center">
+
+```cpp
+#include <unistd.h>
+#include <string.h>
+
+int main() {
+
+    const char name[] =
+        "Name    : Barath\n";
+
+    const char passion[] =
+        "Passion : Coding, Full Stack Development, AI/ML\n";
+
+    const char goal[] =
+        "Goal    : To become a skilled Software Engineer and build impactful technology\n";
+
+    write(1, name, strlen(name));
+    write(1, passion, strlen(passion));
+    write(1, goal, strlen(goal));
+
+}
 ---
 
 # 👨‍💻 About Me
