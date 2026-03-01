@@ -57,19 +57,19 @@ I enjoy building **real-world impact products** combining **AI, backend engineer
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql" />
 </p>
 
-## 🎨 Frontend
+## 🎨 Frontend & Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,reactjs,nextjs,tailwind,bootstrap" />
 </p>
 
 ## ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,MySQL,firebase,supabase" />
 </p>
 
 ## 🤖 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas" />
 </p>
 
 ---
