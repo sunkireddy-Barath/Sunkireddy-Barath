@@ -137,7 +137,6 @@ int main(void) {
 </h2>
 
 <!-- ================= ABOUT ME SECTION ================= -->
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/>
 
 <p align="center">
@@ -150,13 +149,11 @@ int main(void) {
 
 <br>
 
-<div align="center">
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
 
 ### 🚀 Who Am I?
 
@@ -167,11 +164,8 @@ Education: Computer Science Engineering
 Location: India,Tamil Nadu,Chennai
 Passion: Aspiring SDE
 ```
-
-</td>
-<td width="50%">
-
-### ⚡ Quick Facts
+</td> <td width="50%" valign="top">
+⚡ Quick Facts
 
 <img src="https://img.shields.io/badge/🎓-CS_Engineering_Student-0d1117?style=flat-square"/><br>
 <img src="https://img.shields.io/badge/💻-Full_Stack_Developer-00C853?style=flat-square"/><br>
@@ -179,23 +173,8 @@ Passion: Aspiring SDE
 <img src="https://img.shields.io/badge/🧠-800+_LeetCode_Solved-FFA116?style=flat-square"/><br>
 <img src="https://img.shields.io/badge/🏆-3x_Hackathon_Winner-FFD700?style=flat-square"/><br>
 <img src="https://img.shields.io/badge/🚀-Passionate_Coder-6A5ACD?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI_|_Backend_|_Distributed_Systems_|_Blockchain-FF6EC7?style=for-the-badge&labelColor=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:00F7FF,100:6A5ACD&height=3"/>
-</p>
-
-<br>
+</td> </tr> </table> <br> <p align="center"> <img src="https://img.shields.io/badge/Focus-AI_|_Backend_|_Distributed_Systems_|_Blockchain-FF6EC7?style=for-the-badge&labelColor=0d1117"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:00F7FF,100:6A5ACD&height=3"/> </p> 
+<br> 
 
 <!-- ================= INTERNSHIPS SECTION ================= -->
 
