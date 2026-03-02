@@ -89,13 +89,13 @@ int main(void) {
     };
 
     printf("╔════════════════════════════════════════════════════════════╗\n");
-    printf("║   ⚡ BARATH.SYS — Systems Programming Mode: ACTIVE ⚡     ║\n");
+    printf("║   ⚡ BARATH.SYS — Systems Programming Mode: ACTIVE ⚡        ║\n");
     printf("╠════════════════════════════════════════════════════════════╣\n");
-    printf("║  👤 NAME      ➜  Barath Sunkireddy                        ║\n");
-    printf("║  💼 ROLE      ➜  Software Development Engineer            ║\n");
-    printf("║  🧠 LEETCODE  ➜  800+ Problems Solved                     ║\n");
-    printf("║  🏆 WINS      ➜  3x Hackathon Champion                    ║\n");
-    printf("║  🚀 STATUS    ➜  Building Something Revolutionary...      ║\n");
+    printf("║  👤 NAME      ➜  Barath Sunkireddy                         ║\n");
+    printf("║  💼 ROLE      ➜  Software Development Engineer             ║\n");
+    printf("║  🧠 LEETCODE  ➜  800+ Problems Solved                      ║\n");
+    printf("║  🏆 WINS      ➜  3x Hackathon Champion                     ║\n");
+    printf("║  🚀 STATUS    ➜  Building Something Revolutionary...       ║\n");
     printf("╚════════════════════════════════════════════════════════════╝\n");
 
     return EXIT_SUCCESS;
