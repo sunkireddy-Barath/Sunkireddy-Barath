@@ -244,7 +244,7 @@ Passion: Aspiring SDE
 </td>
 <td align="center" width="33%">
 
-### 🏗️ BSAP
+### 🏗️ L2M Labs
 <img src="https://img.shields.io/badge/SDE-Intern-6A5ACD?style=for-the-badge"/>
 <br>
 <img src="https://img.shields.io/badge/Duration-3_Months-0d1117?style=flat-square"/>
