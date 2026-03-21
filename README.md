@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+Myself+Barath;Software+Development+Engineer;Full+Stack+Developer;AI+%26+ML+Engineer;800%2B+LeetCode+Problems+Solved;3X+Hackathon+Winner+🏆" />
 </p>
 
-<h1 align="center">🚀 Barath Sunkireddy </h1>
+<h1 align="center"> Barath Sunkireddy </h1>
 <h3 align="center">Software Development Engineer | Full Stack | AI/ML | Backend Specialist</h3>
 
 <p align="center">
@@ -269,7 +269,7 @@ Passion: Aspiring SDE
 
 ### 💻 Languages
 <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,ruby" />
 <br>
 <img src="https://skillicons.dev/icons?i=js,ts,sql" />
 <br><br>
