@@ -67,39 +67,19 @@
 ║                             🔥 IDENTITY ENGINE v3.0 🔥                           ║       
 ║                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
+# identity.rb
 
-#include <stdio.h>
-#include <stdlib.h>
-
-typedef struct Developer {
-    const char* name;
-    const char* role;
-    const char* skills[5];
-    int leetcode_solved;
-    int hackathon_wins;
-} Developer;
-
-int main(void) {
-    Developer barath = {
-        .name = "Barath Sunkireddy",
-        .role = "Software Development Engineer",
-        .skills = {"Full Stack", "AI/ML", "Backend", "Systems", "Blockchain"},
-        .leetcode_solved = 800,
-        .hackathon_wins = 3
-    };
-
-    printf("╔════════════════════════════════════════════════════════════╗\n");
-    printf("║   ⚡ BARATH.SYS — Systems Programming Mode: ACTIVE ⚡        ║\n");
-    printf("╠════════════════════════════════════════════════════════════╣\n");
-    printf("║     NAME      ➜  Barath Sunkireddy                         ║\n");
-    printf("║     ROLE      ➜  Software Development Engineer             ║\n");
-    printf("║     LEETCODE  ➜  800+ Problems Solved                      ║\n");
-    printf("║     WINS      ➜  3x Hackathon Champion                     ║\n");
-    printf("║     STATUS    ➜  Building Something Revolutionary...       ║\n");
-    printf("╚════════════════════════════════════════════════════════════╝\n");
-
-    return EXIT_SUCCESS;
-}
+class DeveloperIdentity
+  def self.build
+    {
+      name: "Barath Sunkireddy",
+      role: "Software Development Engineer",
+      skills: ["Full Stack", "AI/ML", "Backend", "Systems", "Ruby"],
+      leetcode_solved: 800,
+      hackathon_wins: 3
+    }
+  end
+end
 ```
 
 </td>
