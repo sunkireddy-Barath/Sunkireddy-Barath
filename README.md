@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+Myself+Barath;Software+Development+Engineer;Full+Stack+Developer;AI+%26+ML+Engineer;850%2B+LeetCode+Problems+Solved;3X+Hackathon+Winner+🏆" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+Myself+Barath;Software+Development+Engineer;Full+Stack+Developer;AI+%26+ML+Engineer;850%2B+LeetCode+Problems+Solved;3X+Hackathon+Winner+🏆;Open+Source+Contributer" />
 </p>
 
 <h1 align="center">Sunkireddy Barath </h1>
