@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Sunkireddy Barath </h1>
-<h3 align="center">Software Development Engineer | Full Stack | AI/ML | Backend Specialist</h3>
+<h3 align="center">Software Development Engineer | Open Source Contributor | AI/ML | Backend Specialist| Devops | Blockchain </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-800%2B-ff9f43?style=for-the-badge&logo=leetcode&logoColor=white" />
