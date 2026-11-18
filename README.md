@@ -26,19 +26,9 @@
 <td><img src="https://img.shields.io/badge/●-FF5F56?style=flat-square&logo=none&logoColor=white" height="12"/>
 <img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&logo=none&logoColor=white" height="12"/>
 <img src="https://img.shields.io/badge/●-27C93F?style=flat-square&logo=none&logoColor=white" height="12"/>
-<code>identity.c — barath@system</code>class DeveloperIdentity
-  def self.build
-    {
-      name: "Sunkireddy Barath",
-      role: "Software Development Engineer",
-      skills: ["C++", "Python", "Full Stack", "AI/ML", "GenAI", "Cloud & DevOps"],
-      leetcode_solved: "1000+",
-      open_source_prs_merged: 3,
-      hackathon_wins: 2
-    }
-  end
-end
-</td>
+<code>identity.c — barath@system</code><p align="center">
+  <img src="./identity-code.svg" alt="Ruby identity code with custom RGBA syntax highlighting" width="100%"/>
+</p></td>
 </tr>
 </table>
 </div><!-- Glowing Line Separator -->
