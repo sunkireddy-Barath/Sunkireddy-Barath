@@ -26,18 +26,18 @@
 <td><img src="https://img.shields.io/badge/●-FF5F56?style=flat-square&logo=none&logoColor=white" height="12"/>
 <img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&logo=none&logoColor=white" height="12"/>
 <img src="https://img.shields.io/badge/●-27C93F?style=flat-square&logo=none&logoColor=white" height="12"/>
-<code>identity.c — barath@system</code><pre><font color="#C792EA">class</font> <font color="#FFCB6B">DeveloperIdentity</font>
-  <font color="#C792EA">def</font> <font color="#82AAFF">self</font>.<font color="#82AAFF">build</font>
+<code>identity.c — barath@system</code><div class="highlight highlight-source-ruby"><pre><span class="pl-k">class</span> <span class="pl-v">DeveloperIdentity</span>
+  <span class="pl-k">def</span> <span class="pl-en">self</span>.<span class="pl-en">build</span>
     {
-      <font color="#F78C6C">name</font>: <font color="#C3E88D">"Sunkireddy Barath"</font>,
-      <font color="#F78C6C">role</font>: <font color="#C3E88D">"Software Development Engineer"</font>,
-      <font color="#F78C6C">skills</font>: [<font color="#C3E88D">"C++"</font>, <font color="#C3E88D">"Python"</font>, <font color="#C3E88D">"Full Stack"</font>, <font color="#C3E88D">"AI/ML"</font>, <font color="#C3E88D">"GenAI"</font>, <font color="#C3E88D">"Cloud &amp; DevOps"</font>],
-      <font color="#F78C6C">leetcode_solved</font>: <font color="#C3E88D">"1000+"</font>,
-      <font color="#F78C6C">open_source_prs_merged</font>: <font color="#F78C6C">3</font>,
-      <font color="#F78C6C">hackathon_wins</font>: <font color="#F78C6C">2</font>
+      <span class="pl-c1">name</span>: <span class="pl-s"><span class="pl-pds">"</span>Sunkireddy Barath<span class="pl-pds">"</span></span>,
+      <span class="pl-c1">role</span>: <span class="pl-s"><span class="pl-pds">"</span>Software Development Engineer<span class="pl-pds">"</span></span>,
+      <span class="pl-c1">skills</span>: [<span class="pl-s"><span class="pl-pds">"</span>C++<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Python<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Full Stack<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>AI/ML<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>GenAI<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Cloud &amp; DevOps<span class="pl-pds">"</span></span>],
+      <span class="pl-c1">leetcode_solved</span>: <span class="pl-s"><span class="pl-pds">"</span>1000+<span class="pl-pds">"</span></span>,
+      <span class="pl-c1">open_source_prs_merged</span>: <span class="pl-c1">3</span>,
+      <span class="pl-c1">hackathon_wins</span>: <span class="pl-c1">2</span>
     }
-  <font color="#C792EA">end</font>
-<font color="#C792EA">end</font></pre></td>
+  <span class="pl-k">end</span>
+<span class="pl-k">end</span></pre></div></td>
 </tr>
 </table>
 </div><!-- Glowing Line Separator -->
