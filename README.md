@@ -26,18 +26,19 @@
 <td><img src="https://img.shields.io/badge/●-FF5F56?style=flat-square&logo=none&logoColor=white" height="12"/>
 <img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&logo=none&logoColor=white" height="12"/>
 <img src="https://img.shields.io/badge/●-27C93F?style=flat-square&logo=none&logoColor=white" height="12"/>
-<code>identity.c — barath@system</code><div class="highlight highlight-source-ruby"><pre><span class="pl-k">class</span> <span class="pl-v">DeveloperIdentity</span>
-  <span class="pl-k">def</span> <span class="pl-en">self</span>.<span class="pl-en">build</span>
+<code>identity.c — barath@system</code>class DeveloperIdentity
+  def self.build
     {
-      <span class="pl-c1">name</span>: <span class="pl-s"><span class="pl-pds">"</span>Sunkireddy Barath<span class="pl-pds">"</span></span>,
-      <span class="pl-c1">role</span>: <span class="pl-s"><span class="pl-pds">"</span>Software Development Engineer<span class="pl-pds">"</span></span>,
-      <span class="pl-c1">skills</span>: [<span class="pl-s"><span class="pl-pds">"</span>C++<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Python<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Full Stack<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>AI/ML<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>GenAI<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Cloud &amp; DevOps<span class="pl-pds">"</span></span>],
-      <span class="pl-c1">leetcode_solved</span>: <span class="pl-s"><span class="pl-pds">"</span>1000+<span class="pl-pds">"</span></span>,
-      <span class="pl-c1">open_source_prs_merged</span>: <span class="pl-c1">3</span>,
-      <span class="pl-c1">hackathon_wins</span>: <span class="pl-c1">2</span>
+      name: "Sunkireddy Barath",
+      role: "Software Development Engineer",
+      skills: ["C++", "Python", "Full Stack", "AI/ML", "GenAI", "Cloud & DevOps"],
+      leetcode_solved: "1000+",
+      open_source_prs_merged: 3,
+      hackathon_wins: 2
     }
-  <span class="pl-k">end</span>
-<span class="pl-k">end</span></pre></div></td>
+  end
+end
+</td>
 </tr>
 </table>
 </div><!-- Glowing Line Separator -->
