@@ -26,32 +26,18 @@
 <td><img src="https://img.shields.io/badge/●-FF5F56?style=flat-square&logo=none&logoColor=white" height="12"/>
 <img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&logo=none&logoColor=white" height="12"/>
 <img src="https://img.shields.io/badge/●-27C93F?style=flat-square&logo=none&logoColor=white" height="12"/>
-<code>identity.c — barath@system</code>
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                  ║
-║   ██████   █████  ██████   █████  ████████ ██   ██    ███████ ██    ██ ███████   ║
-║   ██   ██ ██   ██ ██   ██ ██   ██    ██    ██   ██    ██       ██  ██  ██        ║
-║   ██████  ███████ ██████  ███████    ██    ███████    ███████   ████   ███████   ║
-║   ██   ██ ██   ██ ██   ██ ██   ██    ██    ██   ██         ██    ██         ██   ║
-║   ██████  ██   ██ ██   ██ ██   ██    ██    ██   ██    ███████    ██    ███████   ║
-║                                                                                  ║
-║                             🔥 IDENTITY ENGINE v3.0 🔥                          ║       
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-# identity.rb
-
-class DeveloperIdentity
+<code>identity.c — barath@system</code><pre><code class="language-ruby">class DeveloperIdentity
   def self.build
     {
       name: "Sunkireddy Barath",
       role: "Software Development Engineer",
       skills: ["C++", "Python", "Full Stack", "AI/ML", "GenAI", "Cloud & DevOps"],
-      leetcode_solved: 1000,
+      leetcode_solved: "1000+",
+      open_source_prs_merged: 3,
       hackathon_wins: 2
     }
   end
-end
-</td>
+end</code></pre></td>
 </tr>
 </table>
 </div><!-- Glowing Line Separator -->
@@ -172,7 +158,7 @@ Improved deployment reliability through Git workflows and staged releases</td>
 <br>
 <img src="https://skillicons.dev/icons?i=js,ts" />
 <br>
-`SQL`
+<code>SQL</code>
 <br><br>
 <img src="https://img.shields.io/badge/Core-C%20%7C%20C++%20%7C%20Python-00C853?style=flat-square"/></td>
 <td align="center" width="50%">🎨 Frontend & Design
@@ -181,7 +167,7 @@ Improved deployment reliability through Git workflows and staged releases</td>
 <br>
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
 <br>
-`Gradio` • `Streamlit` • `Canva`
+<code>Gradio</code> • <code>Streamlit</code> • <code>Canva</code>
 <br><br>
 <img src="https://img.shields.io/badge/Frontend-Development-FF6EC7?style=flat-square"/></td>
 </tr>
@@ -192,38 +178,44 @@ Improved deployment reliability through Git workflows and staged releases</td>
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 <br>
-`REST APIs` • `SQLAlchemy`
+<code>REST APIs</code> • <code>SQLAlchemy</code>
 <br><br>
 <img src="https://img.shields.io/badge/Backend-Engineering-6A5ACD?style=flat-square"/></td>
 <td align="center" width="50%">🤖 Machine Learning & AI
 <br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 <br>
-`NumPy` • `Pandas` • `Scikit-learn` • `XGBoost`
+<code>NumPy</code> • <code>Pandas</code> • <code>Scikit-learn</code> • <code>XGBoost</code>
 <br>
-`Keras` • `YOLO` • `OCR` • `ONNX`
+<code>Keras</code> • <code>YOLO</code> • <code>OCR</code> • <code>ONNX</code>
 <br><br>
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-Development-00F7FF?style=flat-square"/></td>
 </tr>
 <tr>
 <td align="center" width="50%">🧠 GenAI & Agentic AI
 <br>
-`LLMs` • `Transformers` • `RAG`
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square"/>
 <br>
-`LangChain` • `LangGraph`
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
 <br>
-`Prompt Engineering` • `Multi-Agent Systems`
+<code>Prompt Engineering</code> • <code>Multi-Agent Systems</code>
 <br><br>
 <img src="https://img.shields.io/badge/GenAI-Agentic_AI-9C27B0?style=flat-square"/></td>
 <td align="center" width="50%">☁️ DevOps, Cloud & CS Fundamentals
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,aws" />
 <br>
-`CI/CD` • `Render` • `AWS EC2 & ELB`
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_ELB-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <br>
-`DSA` • `OS` • `Computer Networks`
+<code>DSA</code> • <code>OS</code> • <code>Computer Networks</code>
 <br>
-`DBMS` • `OOP`
+<code>DBMS</code> • <code>OOP</code>
 <br><br>
 <img src="https://img.shields.io/badge/Cloud-DevOps-00C853?style=flat-square"/></td>
 </tr>
@@ -237,47 +229,46 @@ Improved deployment reliability through Git workflows and staged releases</td>
 </p><div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-<!-- ================= URBANTRACE AI ================= --><h2 align="center">🚦 UrbanTrace AI — ANPR Tracking and City Traffic Analytics</h2><p align="center">
-AI-powered vehicle tracking and traffic analytics using multi-camera license plate recognition and trajectory reconstruction.
-</p>✨ Key Highlights
-- Built a YOLO11m, ByteTrack and CCT-OCR pipeline with ONNX Runtime, reaching 92.2% character accuracy at 18.2 FPS per camera
-- Reconstructed cross-camera vehicle trajectories using PostGIS and GraphHopper routing
-- Reduced duplicate tracking identities from 110 tracker IDs to 28 vehicles
-🛠 Tech Stack
-YOLO11m • ByteTrack • ONNX • OpenCV • FastAPI • PostGIS • GraphHopper
-<!-- ================= AGRISMART ================= --><h2 align="center">🌾 AgriSmart — AI/ML-Powered Smart Agriculture Platform</h2><p align="center">
-AI-powered agriculture platform for crop and yield recommendations, plant disease detection, and pest identification.
-</p>✨ Key Highlights
-- Built XGBoost crop and yield models with 93% accuracy across 22 crops, R² of 0.91 and MAE of 1.51 t/ha
-- Developed MobileNetV3 ONNX disease and pest models covering 38 classes with 98.1% unseen accuracy
-- Reduced false accepts from 33% to 2% using a subject validation gate
-🛠 Tech Stack
-Python • FastAPI • XGBoost • MobileNetV3 • ONNX • React Native
-<!-- ================= SENTINELOPS AI ================= --><h2 align="center">🛡️ SentinelOps AI — Cloud Incident Detection and Recovery</h2><p align="center">
-Cloud incident analysis platform that identifies likely root causes and validates recovery actions against service-level objectives.
-</p>✨ Key Highlights
-- Built an 8-cause root-cause engine with read-only falsification tests, identifying the correct cause in 99% of 20 benchmark seeds
-- Implemented recovery contracts with rehearsal and SLO verification
-- Reduced false recovery claims from 72% to 0%
-🛠 Tech Stack
-FastAPI • PostgreSQL • Scikit-learn • Next.js • Docker • Render • Neon
-<!-- ================= VERITAS ================= --><h2 align="center">🧾 VERITAS — Verified Evolving Reality and Intelligence Tracking</h2><p align="center">
-Evidence-grounded intelligence system combining temporal retrieval, hybrid search, reranking, and a custom transformer model.
-</p>✨ Key Highlights
-- Built a bitemporal RAG pipeline using BM25-dense fusion and reranking, scoring 1.00 against 0.11 for basic RAG on TemporalEvidenceBench
-- Trained a 14M-parameter transformer from scratch using RoPE, GQA, SwiGLU and RMSNorm
-- Achieved 50/50 correct audit outcomes with 12/12 appropriate refusals
-🛠 Tech Stack
-PyTorch • FastAPI • RAG • BM25 • Kafka • SQLite • React
-<!-- ================= CONTEXTA ================= --><h2 align="center">🧠 Contexta — Autonomous AI Threat Intelligence Platform</h2><p align="center">
-AI-driven security operations platform for evidence-based vulnerability analysis, risk prioritization, and threat intelligence.
-</p>✨ Key Highlights
-- Built 5 role-specific Gemini agents reasoning over SHA-256-hashed evidence packs, with deterministic consensus streamed via SSE
-- Engineered a 6-factor Business Weighted Vulnerability Score using CVSS, KEV, EPSS and 7-day decay
-- Secured audit history with an Ed25519-signed hash-chain ledger
-🛠 Tech Stack
-FastAPI • Next.js • PostgreSQL • Gemini • NetworkX • Redis • Docker
-<!-- ================= ACHIEVEMENTS SECTION ================= --><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/><p align="center">
+<!-- ================= URBANTRACE AI ================= --><h2 align="center">🚦 UrbanTrace AI — ANPR Tracking and City Traffic Analytics</h2><p align="center">AI-powered vehicle tracking and traffic analytics using multi-camera license plate recognition and trajectory reconstruction.</p><p><strong>✨ Key Highlights</strong></p>
+<ul>
+<li>Built a YOLO11m, ByteTrack and CCT-OCR pipeline with ONNX Runtime, reaching 92.2% character accuracy at 18.2 FPS per camera</li>\n<li>Reconstructed cross-camera vehicle trajectories using PostGIS and GraphHopper routing</li>\n<li>Reduced duplicate tracking identities from 110 tracker IDs to 28 vehicles</li>\n
+</ul><p align="center"><strong>🛠 Tech Stack</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/YOLO11m-30363D?style=for-the-badge&logoColor=white" alt="YOLO11m"/>\n<img src="https://img.shields.io/badge/ByteTrack-30363D?style=for-the-badge&logoColor=white" alt="ByteTrack"/>\n<img src="https://img.shields.io/badge/ONNX-30363D?style=for-the-badge&logoColor=white" alt="ONNX"/>\n<img src="https://img.shields.io/badge/OpenCV-30363D?style=for-the-badge&logoColor=white" alt="OpenCV"/>\n<img src="https://img.shields.io/badge/FastAPI-30363D?style=for-the-badge&logoColor=white" alt="FastAPI"/>\n<img src="https://img.shields.io/badge/PostGIS-30363D?style=for-the-badge&logoColor=white" alt="PostGIS"/>\n<img src="https://img.shields.io/badge/GraphHopper-30363D?style=for-the-badge&logoColor=white" alt="GraphHopper"/>\n
+</p>---\n\n<!-- ================= AGRISMART ================= -->
+<h2 align="center">🌾 AgriSmart — AI/ML-Powered Smart Agriculture Platform</h2><p align="center">AI-powered agriculture platform for crop and yield recommendations, plant disease detection, and pest identification.</p><p><strong>✨ Key Highlights</strong></p>
+<ul>
+<li>Built XGBoost crop and yield models with 93% accuracy across 22 crops, R² of 0.91 and MAE of 1.51 t/ha</li>\n<li>Developed MobileNetV3 ONNX disease and pest models covering 38 classes with 98.1% unseen accuracy</li>\n<li>Reduced false accepts from 33% to 2% using a subject validation gate</li>\n
+</ul><p align="center"><strong>🛠 Tech Stack</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-30363D?style=for-the-badge&logoColor=white" alt="Python"/>\n<img src="https://img.shields.io/badge/FastAPI-30363D?style=for-the-badge&logoColor=white" alt="FastAPI"/>\n<img src="https://img.shields.io/badge/XGBoost-30363D?style=for-the-badge&logoColor=white" alt="XGBoost"/>\n<img src="https://img.shields.io/badge/MobileNetV3-30363D?style=for-the-badge&logoColor=white" alt="MobileNetV3"/>\n<img src="https://img.shields.io/badge/ONNX-30363D?style=for-the-badge&logoColor=white" alt="ONNX"/>\n<img src="https://img.shields.io/badge/React_Native-30363D?style=for-the-badge&logoColor=white" alt="React Native"/>\n
+</p>
+---\n\n<!-- ================= SENTINELOPS AI ================= -->
+<h2 align="center">🛡️ SentinelOps AI — Cloud Incident Detection and Recovery</h2><p align="center">Cloud incident analysis platform that identifies likely root causes and validates recovery actions against service-level objectives.</p><p><strong>✨ Key Highlights</strong></p>
+<ul>
+<li>Built an 8-cause root-cause engine with read-only falsification tests, identifying the correct cause in 99% of 20 benchmark seeds</li>\n<li>Implemented recovery contracts with rehearsal and SLO verification</li>\n<li>Reduced false recovery claims from 72% to 0%</li>\n
+</ul><p align="center"><strong>🛠 Tech Stack</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-30363D?style=for-the-badge&logoColor=white" alt="FastAPI"/>\n<img src="https://img.shields.io/badge/PostgreSQL-30363D?style=for-the-badge&logoColor=white" alt="PostgreSQL"/>\n<img src="https://img.shields.io/badge/Scikit_learn-30363D?style=for-the-badge&logoColor=white" alt="Scikit-learn"/>\n<img src="https://img.shields.io/badge/Next_js-30363D?style=for-the-badge&logoColor=white" alt="Next.js"/>\n<img src="https://img.shields.io/badge/Docker-30363D?style=for-the-badge&logoColor=white" alt="Docker"/>\n<img src="https://img.shields.io/badge/Render-30363D?style=for-the-badge&logoColor=white" alt="Render"/>\n<img src="https://img.shields.io/badge/Neon-30363D?style=for-the-badge&logoColor=white" alt="Neon"/>\n
+</p>
+---\n\n<!-- ================= VERITAS ================= -->
+<h2 align="center">🧾 VERITAS — Verified Evolving Reality and Intelligence Tracking</h2><p align="center">Evidence-grounded intelligence system combining temporal retrieval, hybrid search, reranking, and a custom transformer model.</p><p><strong>✨ Key Highlights</strong></p>
+<ul>
+<li>Built a bitemporal RAG pipeline using BM25-dense fusion and reranking, scoring 1.00 against 0.11 for basic RAG on TemporalEvidenceBench</li>\n<li>Trained a 14M-parameter transformer from scratch using RoPE, GQA, SwiGLU and RMSNorm</li>\n<li>Achieved 50/50 correct audit outcomes with 12/12 appropriate refusals</li>\n
+</ul><p align="center"><strong>🛠 Tech Stack</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-30363D?style=for-the-badge&logoColor=white" alt="PyTorch"/>\n<img src="https://img.shields.io/badge/FastAPI-30363D?style=for-the-badge&logoColor=white" alt="FastAPI"/>\n<img src="https://img.shields.io/badge/RAG-30363D?style=for-the-badge&logoColor=white" alt="RAG"/>\n<img src="https://img.shields.io/badge/BM25-30363D?style=for-the-badge&logoColor=white" alt="BM25"/>\n<img src="https://img.shields.io/badge/Kafka-30363D?style=for-the-badge&logoColor=white" alt="Kafka"/>\n<img src="https://img.shields.io/badge/SQLite-30363D?style=for-the-badge&logoColor=white" alt="SQLite"/>\n<img src="https://img.shields.io/badge/React-30363D?style=for-the-badge&logoColor=white" alt="React"/>\n
+</p>
+---\n\n<!-- ================= CONTEXTA ================= -->
+<h2 align="center">🧠 Contexta — Autonomous AI Threat Intelligence Platform</h2><p align="center">AI-driven security operations platform for evidence-based vulnerability analysis, risk prioritization, and threat intelligence.</p><p><strong>✨ Key Highlights</strong></p>
+<ul>
+<li>Built 5 role-specific Gemini agents reasoning over SHA-256-hashed evidence packs, with deterministic consensus streamed via SSE</li>\n<li>Engineered a 6-factor Business Weighted Vulnerability Score using CVSS, KEV, EPSS and 7-day decay</li>\n<li>Secured audit history with an Ed25519-signed hash-chain ledger</li>\n
+</ul><p align="center"><strong>🛠 Tech Stack</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-30363D?style=for-the-badge&logoColor=white" alt="FastAPI"/>\n<img src="https://img.shields.io/badge/Next_js-30363D?style=for-the-badge&logoColor=white" alt="Next.js"/>\n<img src="https://img.shields.io/badge/PostgreSQL-30363D?style=for-the-badge&logoColor=white" alt="PostgreSQL"/>\n<img src="https://img.shields.io/badge/Gemini-30363D?style=for-the-badge&logoColor=white" alt="Gemini"/>\n<img src="https://img.shields.io/badge/NetworkX-30363D?style=for-the-badge&logoColor=white" alt="NetworkX"/>\n<img src="https://img.shields.io/badge/Redis-30363D?style=for-the-badge&logoColor=white" alt="Redis"/>\n<img src="https://img.shields.io/badge/Docker-30363D?style=for-the-badge&logoColor=white" alt="Docker"/>\n
+</p>
+---\n\n<!-- ================= ACHIEVEMENTS SECTION ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header"/><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=FFD700&center=true&vCenter=true&repeat=false&width=500&lines=🏆+ACHIEVEMENTS+🏆"/>
 </p><div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
